@@ -1,0 +1,1201 @@
+User_ID,User_Persona,Age_Group,City,Device_Type,Bank,Join_Date
+U0001,Family User,30-39,Ahmedabad,Android,ICICI Bank,06-10-2023
+U0002,Student,18-20,Jaipur,Android,Kotak Mahindra Bank,16-09-2023
+U0003,Student,21-24,Delhi,Android,ICICI Bank,09-11-2024
+U0004,Working Professional,35-44,Delhi,Android,Kotak Mahindra Bank,26-11-2023
+U0005,Working Professional,25-34,Kolkata,Android,HDFC Bank,12-07-2024
+U0006,Budget Conscious,25-34,Ahmedabad,Android,State Bank of India,11-06-2026
+U0007,Student,21-24,Mumbai,Android,HDFC Bank,21-12-2025
+U0008,Working Professional,25-34,Kolkata,Android,HDFC Bank,01-09-2025
+U0009,Budget Conscious,45-54,Mumbai,iOS,Axis Bank,08-08-2024
+U0010,Student,21-24,Jaipur,Android,State Bank of India,31-12-2023
+U0011,Family User,50-59,Mumbai,Android,ICICI Bank,30-12-2024
+U0012,Budget Conscious,25-34,Noida,iOS,Axis Bank,06-11-2025
+U0013,Working Professional,35-44,Chandigarh,Android,State Bank of India,04-01-2025
+U0014,Working Professional,25-34,Ahmedabad,iOS,HDFC Bank,06-01-2024
+U0015,Family User,30-39,Ludhiana,Android,ICICI Bank,23-01-2026
+U0016,Working Professional,25-34,Jaipur,Android,ICICI Bank,16-04-2026
+U0017,Budget Conscious,25-34,Noida,iOS,State Bank of India,06-01-2025
+U0018,Working Professional,22-24,Noida,iOS,Kotak Mahindra Bank,22-05-2024
+U0019,Frequent Traveler,35-44,Noida,Android,Axis Bank,02-06-2026
+U0020,Frequent Traveler,45-54,Hyderabad,Android,ICICI Bank,28-12-2025
+U0021,Working Professional,35-44,Ludhiana,Android,Kotak Mahindra Bank,08-04-2025
+U0022,Working Professional,35-44,Pune,Android,ICICI Bank,12-04-2026
+U0023,Family User,30-39,Delhi,iOS,ICICI Bank,22-03-2026
+U0024,Family User,50-59,Pune,Android,Axis Bank,24-11-2025
+U0025,Working Professional,25-34,Ludhiana,Android,Kotak Mahindra Bank,12-10-2024
+U0026,Frequent Traveler,25-34,Jaipur,Android,Kotak Mahindra Bank,08-09-2023
+U0027,Budget Conscious,45-54,Chandigarh,Android,Axis Bank,16-03-2025
+U0028,Student,18-20,Ahmedabad,iOS,State Bank of India,12-06-2025
+U0029,High Spender,30-39,Ludhiana,iOS,State Bank of India,10-04-2024
+U0030,Frequent Traveler,45-54,Kolkata,Android,State Bank of India,12-07-2025
+U0031,Budget Conscious,45-54,Ludhiana,iOS,Kotak Mahindra Bank,11-12-2024
+U0032,Working Professional,22-24,Mumbai,iOS,State Bank of India,15-04-2024
+U0033,Working Professional,22-24,Kolkata,iOS,HDFC Bank,26-08-2023
+U0034,Budget Conscious,25-34,Ludhiana,Android,ICICI Bank,22-11-2024
+U0035,Family User,50-59,Bengaluru,Android,Kotak Mahindra Bank,23-09-2025
+U0036,Working Professional,22-24,Ludhiana,Android,ICICI Bank,01-07-2026
+U0037,Budget Conscious,35-44,Jaipur,Android,Axis Bank,10-12-2024
+U0038,Frequent Traveler,35-44,Mumbai,Android,HDFC Bank,17-05-2025
+U0039,Working Professional,35-44,Ludhiana,Android,ICICI Bank,24-03-2026
+U0040,Student,18-20,Noida,Android,HDFC Bank,28-12-2023
+U0041,Frequent Traveler,25-34,Ludhiana,Android,Axis Bank,14-02-2025
+U0042,Working Professional,22-24,Ahmedabad,iOS,Kotak Mahindra Bank,03-03-2024
+U0043,Family User,30-39,Hyderabad,Android,ICICI Bank,11-11-2024
+U0044,Student,21-24,Chandigarh,Android,Axis Bank,23-09-2025
+U0045,Frequent Traveler,25-34,Jaipur,Android,HDFC Bank,04-08-2025
+U0046,Student,21-24,Mumbai,Android,ICICI Bank,30-03-2026
+U0047,Family User,30-39,Pune,Android,Axis Bank,06-03-2025
+U0048,Working Professional,22-24,Hyderabad,Android,Kotak Mahindra Bank,24-09-2023
+U0049,Student,18-20,Mumbai,iOS,ICICI Bank,09-05-2024
+U0050,Student,21-24,Hyderabad,Android,Axis Bank,24-01-2026
+U0051,High Spender,30-39,Pune,Android,Axis Bank,20-03-2024
+U0052,Working Professional,25-34,Gurgaon,Android,Kotak Mahindra Bank,08-02-2024
+U0053,Family User,40-49,Bengaluru,Android,ICICI Bank,21-12-2025
+U0054,High Spender,50-59,Ahmedabad,Android,State Bank of India,10-11-2023
+U0055,Student,21-24,Ludhiana,iOS,Kotak Mahindra Bank,20-10-2024
+U0056,Student,18-20,Bengaluru,Android,HDFC Bank,31-08-2023
+U0057,Family User,30-39,Pune,Android,Kotak Mahindra Bank,01-07-2024
+U0058,Working Professional,35-44,Delhi,Android,Axis Bank,02-12-2025
+U0059,Family User,50-59,Ludhiana,Android,State Bank of India,02-11-2025
+U0060,Working Professional,35-44,Chandigarh,Android,Axis Bank,28-10-2025
+U0061,Student,21-24,Hyderabad,Android,HDFC Bank,12-05-2025
+U0062,Student,18-20,Mumbai,Android,Kotak Mahindra Bank,30-08-2023
+U0063,Working Professional,25-34,Mumbai,iOS,State Bank of India,19-08-2023
+U0064,Working Professional,25-34,Ludhiana,Android,Kotak Mahindra Bank,02-06-2025
+U0065,High Spender,50-59,Ludhiana,Android,Kotak Mahindra Bank,23-05-2026
+U0066,Working Professional,35-44,Mumbai,iOS,ICICI Bank,10-07-2024
+U0067,Working Professional,22-24,Ahmedabad,Android,State Bank of India,30-08-2025
+U0068,Working Professional,22-24,Ahmedabad,Android,State Bank of India,16-09-2023
+U0069,Family User,40-49,Delhi,Android,Axis Bank,07-01-2025
+U0070,Frequent Traveler,25-34,Delhi,Android,ICICI Bank,25-06-2024
+U0071,Family User,40-49,Bengaluru,Android,Kotak Mahindra Bank,05-07-2024
+U0072,Budget Conscious,45-54,Delhi,Android,ICICI Bank,26-06-2024
+U0073,Family User,40-49,Kolkata,Android,Axis Bank,03-07-2026
+U0074,Student,21-24,Chandigarh,iOS,HDFC Bank,08-02-2026
+U0075,Frequent Traveler,25-34,Jaipur,Android,HDFC Bank,16-08-2023
+U0076,Working Professional,35-44,Pune,iOS,ICICI Bank,11-09-2025
+U0077,High Spender,30-39,Bengaluru,iOS,ICICI Bank,15-12-2023
+U0078,Frequent Traveler,25-34,Bengaluru,Android,State Bank of India,02-02-2024
+U0079,Budget Conscious,35-44,Jaipur,iOS,ICICI Bank,03-03-2025
+U0080,Working Professional,35-44,Mumbai,Android,HDFC Bank,09-03-2026
+U0081,Frequent Traveler,25-34,Noida,Android,Axis Bank,02-01-2025
+U0082,Working Professional,22-24,Noida,Android,ICICI Bank,10-07-2024
+U0083,Working Professional,25-34,Mumbai,iOS,State Bank of India,15-12-2025
+U0084,Working Professional,35-44,Pune,Android,Kotak Mahindra Bank,22-01-2025
+U0085,Working Professional,22-24,Mumbai,iOS,State Bank of India,26-05-2024
+U0086,Student,21-24,Delhi,Android,Axis Bank,17-11-2025
+U0087,Working Professional,25-34,Pune,Android,Kotak Mahindra Bank,11-05-2025
+U0088,Student,18-20,Gurgaon,Android,Axis Bank,09-02-2025
+U0089,Student,18-20,Chandigarh,Android,State Bank of India,25-02-2025
+U0090,Family User,50-59,Mumbai,Android,State Bank of India,08-02-2024
+U0091,Family User,50-59,Pune,Android,State Bank of India,15-09-2024
+U0092,Family User,30-39,Pune,Android,Axis Bank,10-03-2024
+U0093,Family User,30-39,Kolkata,Android,Axis Bank,10-11-2024
+U0094,Family User,30-39,Gurgaon,Android,Axis Bank,07-05-2026
+U0095,Budget Conscious,45-54,Jaipur,Android,Axis Bank,02-06-2024
+U0096,Working Professional,22-24,Ludhiana,Android,ICICI Bank,25-01-2026
+U0097,Family User,40-49,Ludhiana,Android,Kotak Mahindra Bank,19-09-2023
+U0098,Working Professional,22-24,Jaipur,Android,ICICI Bank,21-10-2023
+U0099,Student,18-20,Noida,iOS,Kotak Mahindra Bank,31-10-2024
+U0100,Frequent Traveler,25-34,Hyderabad,Android,Kotak Mahindra Bank,01-08-2024
+U0101,Student,21-24,Hyderabad,Android,ICICI Bank,27-10-2025
+U0102,Family User,30-39,Mumbai,Android,ICICI Bank,10-11-2023
+U0103,Student,21-24,Delhi,Android,HDFC Bank,05-07-2025
+U0104,Working Professional,25-34,Jaipur,Android,Kotak Mahindra Bank,26-02-2024
+U0105,Family User,40-49,Kolkata,Android,Kotak Mahindra Bank,12-07-2025
+U0106,Working Professional,35-44,Hyderabad,iOS,Axis Bank,23-07-2025
+U0107,Working Professional,22-24,Jaipur,Android,Kotak Mahindra Bank,08-07-2024
+U0108,Working Professional,22-24,Gurgaon,Android,State Bank of India,17-04-2026
+U0109,Working Professional,25-34,Chandigarh,iOS,HDFC Bank,21-08-2024
+U0110,Student,18-20,Pune,Android,ICICI Bank,11-05-2025
+U0111,Student,21-24,Chandigarh,Android,Axis Bank,26-10-2025
+U0112,Student,21-24,Pune,iOS,Kotak Mahindra Bank,23-03-2026
+U0113,High Spender,30-39,Kolkata,Android,HDFC Bank,29-09-2024
+U0114,High Spender,40-49,Pune,iOS,Axis Bank,13-08-2025
+U0115,Family User,50-59,Ludhiana,Android,ICICI Bank,29-09-2024
+U0116,Working Professional,25-34,Pune,Android,Axis Bank,24-09-2023
+U0117,Working Professional,35-44,Pune,Android,Axis Bank,15-04-2025
+U0118,High Spender,50-59,Ludhiana,Android,Axis Bank,17-04-2025
+U0119,Family User,50-59,Delhi,Android,Axis Bank,01-02-2025
+U0120,Student,21-24,Bengaluru,Android,Axis Bank,14-02-2026
+U0121,Working Professional,25-34,Chandigarh,Android,Axis Bank,28-07-2024
+U0122,Working Professional,25-34,Gurgaon,iOS,Axis Bank,12-04-2026
+U0123,Student,18-20,Chandigarh,Android,HDFC Bank,23-04-2025
+U0124,Budget Conscious,45-54,Delhi,Android,ICICI Bank,31-07-2025
+U0125,Student,18-20,Kolkata,Android,ICICI Bank,18-01-2026
+U0126,Working Professional,22-24,Kolkata,iOS,Axis Bank,09-05-2024
+U0127,Budget Conscious,35-44,Bengaluru,Android,HDFC Bank,26-09-2024
+U0128,Budget Conscious,25-34,Gurgaon,Android,HDFC Bank,01-06-2025
+U0129,High Spender,50-59,Jaipur,iOS,Axis Bank,16-05-2025
+U0130,Working Professional,35-44,Noida,Android,ICICI Bank,19-08-2024
+U0131,Student,21-24,Jaipur,Android,HDFC Bank,11-04-2025
+U0132,Budget Conscious,45-54,Delhi,Android,Axis Bank,26-06-2026
+U0133,Family User,30-39,Ludhiana,Android,HDFC Bank,23-01-2024
+U0134,Frequent Traveler,35-44,Mumbai,Android,State Bank of India,07-02-2024
+U0135,Family User,40-49,Ahmedabad,Android,ICICI Bank,15-05-2024
+U0136,Budget Conscious,45-54,Gurgaon,Android,Kotak Mahindra Bank,04-12-2024
+U0137,Budget Conscious,35-44,Pune,iOS,Kotak Mahindra Bank,24-09-2023
+U0138,Working Professional,22-24,Mumbai,Android,Axis Bank,17-08-2025
+U0139,Working Professional,25-34,Kolkata,Android,Axis Bank,07-12-2023
+U0140,Working Professional,25-34,Chandigarh,Android,ICICI Bank,29-11-2023
+U0141,Working Professional,25-34,Chandigarh,Android,Kotak Mahindra Bank,26-11-2023
+U0142,Budget Conscious,35-44,Ludhiana,Android,ICICI Bank,01-04-2026
+U0143,Student,21-24,Hyderabad,Android,ICICI Bank,15-06-2025
+U0144,Budget Conscious,45-54,Ahmedabad,Android,HDFC Bank,14-09-2024
+U0145,Student,18-20,Pune,Android,State Bank of India,15-01-2025
+U0146,Family User,40-49,Hyderabad,Android,State Bank of India,17-11-2024
+U0147,Working Professional,35-44,Ludhiana,Android,Axis Bank,18-01-2024
+U0148,Working Professional,25-34,Noida,Android,ICICI Bank,19-05-2025
+U0149,Working Professional,35-44,Ludhiana,iOS,ICICI Bank,15-11-2024
+U0150,Student,21-24,Gurgaon,Android,Kotak Mahindra Bank,20-05-2024
+U0151,Family User,30-39,Noida,Android,State Bank of India,09-10-2025
+U0152,Student,18-20,Ahmedabad,Android,State Bank of India,27-07-2025
+U0153,Student,18-20,Ludhiana,Android,ICICI Bank,28-07-2024
+U0154,Family User,40-49,Mumbai,iOS,Kotak Mahindra Bank,06-07-2024
+U0155,Working Professional,25-34,Hyderabad,Android,HDFC Bank,22-09-2025
+U0156,Working Professional,25-34,Mumbai,iOS,Axis Bank,01-05-2024
+U0157,Working Professional,35-44,Jaipur,Android,ICICI Bank,27-06-2024
+U0158,Student,21-24,Mumbai,iOS,HDFC Bank,18-06-2026
+U0159,Family User,40-49,Kolkata,Android,Kotak Mahindra Bank,02-08-2025
+U0160,Working Professional,35-44,Pune,Android,Axis Bank,25-02-2026
+U0161,Working Professional,35-44,Pune,Android,Kotak Mahindra Bank,27-02-2025
+U0162,Student,18-20,Noida,Android,State Bank of India,16-06-2024
+U0163,Family User,30-39,Noida,Android,HDFC Bank,12-09-2024
+U0164,Student,21-24,Hyderabad,Android,Axis Bank,08-11-2025
+U0165,Working Professional,22-24,Gurgaon,Android,Axis Bank,25-05-2026
+U0166,Student,18-20,Gurgaon,Android,Kotak Mahindra Bank,09-06-2024
+U0167,Family User,30-39,Pune,Android,ICICI Bank,21-04-2024
+U0168,Family User,40-49,Bengaluru,Android,ICICI Bank,24-04-2025
+U0169,Budget Conscious,45-54,Ahmedabad,iOS,State Bank of India,04-01-2025
+U0170,Working Professional,25-34,Ahmedabad,Android,Axis Bank,13-01-2026
+U0171,High Spender,50-59,Ludhiana,Android,HDFC Bank,12-03-2025
+U0172,Family User,40-49,Ahmedabad,Android,State Bank of India,16-06-2026
+U0173,Student,18-20,Jaipur,iOS,Kotak Mahindra Bank,30-08-2025
+U0174,Family User,30-39,Jaipur,iOS,Kotak Mahindra Bank,10-04-2026
+U0175,Student,18-20,Hyderabad,Android,Axis Bank,29-05-2025
+U0176,High Spender,30-39,Kolkata,Android,Axis Bank,08-01-2025
+U0177,High Spender,40-49,Chandigarh,Android,State Bank of India,22-12-2024
+U0178,Family User,30-39,Chandigarh,Android,Axis Bank,15-04-2025
+U0179,Working Professional,25-34,Ludhiana,Android,HDFC Bank,07-07-2024
+U0180,Working Professional,25-34,Mumbai,iOS,Axis Bank,11-04-2024
+U0181,Frequent Traveler,25-34,Jaipur,iOS,Axis Bank,27-10-2024
+U0182,Working Professional,22-24,Ludhiana,Android,Axis Bank,10-04-2024
+U0183,Family User,30-39,Noida,Android,ICICI Bank,02-11-2023
+U0184,High Spender,40-49,Ahmedabad,Android,HDFC Bank,14-05-2026
+U0185,High Spender,50-59,Noida,Android,State Bank of India,18-06-2026
+U0186,Family User,50-59,Pune,Android,HDFC Bank,20-07-2025
+U0187,Working Professional,22-24,Jaipur,iOS,Axis Bank,15-04-2024
+U0188,High Spender,40-49,Ludhiana,Android,Axis Bank,10-09-2024
+U0189,Frequent Traveler,35-44,Noida,Android,ICICI Bank,16-04-2026
+U0190,Working Professional,35-44,Ludhiana,Android,ICICI Bank,28-10-2024
+U0191,Frequent Traveler,35-44,Pune,Android,Kotak Mahindra Bank,12-10-2025
+U0192,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,17-03-2026
+U0193,Family User,50-59,Hyderabad,iOS,Axis Bank,15-09-2024
+U0194,Family User,40-49,Chandigarh,Android,Kotak Mahindra Bank,23-02-2025
+U0195,Working Professional,25-34,Noida,iOS,ICICI Bank,20-05-2025
+U0196,Family User,30-39,Pune,Android,Axis Bank,25-04-2025
+U0197,Budget Conscious,35-44,Pune,iOS,ICICI Bank,14-02-2026
+U0198,Working Professional,22-24,Bengaluru,Android,Kotak Mahindra Bank,24-10-2025
+U0199,Working Professional,22-24,Hyderabad,Android,Axis Bank,28-08-2024
+U0200,Student,18-20,Pune,iOS,ICICI Bank,23-11-2023
+U0201,Student,21-24,Chandigarh,Android,Axis Bank,15-06-2026
+U0202,Family User,40-49,Jaipur,iOS,Axis Bank,16-05-2025
+U0203,High Spender,50-59,Ahmedabad,iOS,Axis Bank,01-09-2025
+U0204,Frequent Traveler,25-34,Kolkata,Android,State Bank of India,15-06-2025
+U0205,High Spender,50-59,Mumbai,Android,HDFC Bank,25-08-2025
+U0206,Budget Conscious,45-54,Mumbai,Android,State Bank of India,06-09-2025
+U0207,High Spender,30-39,Chandigarh,Android,State Bank of India,23-06-2026
+U0208,Working Professional,25-34,Bengaluru,Android,Axis Bank,23-05-2025
+U0209,Family User,30-39,Bengaluru,Android,Kotak Mahindra Bank,09-01-2025
+U0210,Frequent Traveler,45-54,Jaipur,Android,Kotak Mahindra Bank,05-10-2025
+U0211,Student,21-24,Jaipur,Android,State Bank of India,25-06-2026
+U0212,Family User,40-49,Gurgaon,Android,ICICI Bank,17-01-2026
+U0213,Student,21-24,Kolkata,Android,Axis Bank,08-10-2023
+U0214,Budget Conscious,35-44,Gurgaon,Android,Axis Bank,19-10-2024
+U0215,Frequent Traveler,25-34,Noida,Android,State Bank of India,21-01-2025
+U0216,Family User,50-59,Gurgaon,Android,Axis Bank,15-08-2023
+U0217,Working Professional,35-44,Jaipur,Android,HDFC Bank,29-02-2024
+U0218,High Spender,50-59,Hyderabad,iOS,State Bank of India,20-08-2023
+U0219,Budget Conscious,25-34,Kolkata,Android,ICICI Bank,28-12-2023
+U0220,Family User,50-59,Gurgaon,Android,ICICI Bank,06-06-2026
+U0221,Family User,50-59,Jaipur,Android,Axis Bank,03-07-2026
+U0222,Student,21-24,Ahmedabad,Android,State Bank of India,07-02-2024
+U0223,Working Professional,25-34,Bengaluru,Android,Kotak Mahindra Bank,01-05-2025
+U0224,Frequent Traveler,35-44,Ludhiana,Android,State Bank of India,10-02-2026
+U0225,Frequent Traveler,35-44,Hyderabad,iOS,State Bank of India,06-06-2026
+U0226,Budget Conscious,35-44,Mumbai,Android,HDFC Bank,03-03-2026
+U0227,Student,18-20,Jaipur,Android,Axis Bank,28-05-2024
+U0228,High Spender,50-59,Chandigarh,Android,Axis Bank,08-01-2024
+U0229,Student,18-20,Hyderabad,Android,State Bank of India,11-12-2025
+U0230,Family User,50-59,Chandigarh,Android,ICICI Bank,30-01-2026
+U0231,Working Professional,35-44,Ludhiana,Android,Kotak Mahindra Bank,16-10-2023
+U0232,Working Professional,22-24,Jaipur,iOS,State Bank of India,12-10-2024
+U0233,Family User,30-39,Bengaluru,Android,HDFC Bank,27-09-2025
+U0234,Working Professional,25-34,Mumbai,Android,Kotak Mahindra Bank,30-05-2026
+U0235,Student,21-24,Chandigarh,Android,Kotak Mahindra Bank,19-03-2025
+U0236,Working Professional,35-44,Ahmedabad,Android,Axis Bank,20-09-2024
+U0237,Family User,40-49,Kolkata,Android,State Bank of India,19-08-2025
+U0238,Student,21-24,Noida,Android,ICICI Bank,05-06-2025
+U0239,Frequent Traveler,25-34,Jaipur,Android,State Bank of India,03-10-2025
+U0240,Student,21-24,Noida,iOS,Axis Bank,24-08-2024
+U0241,Student,18-20,Jaipur,Android,HDFC Bank,02-10-2023
+U0242,Student,21-24,Noida,iOS,Kotak Mahindra Bank,23-09-2023
+U0243,Working Professional,35-44,Noida,Android,ICICI Bank,24-11-2025
+U0244,Working Professional,22-24,Kolkata,Android,ICICI Bank,22-01-2026
+U0245,High Spender,50-59,Gurgaon,Android,HDFC Bank,12-03-2026
+U0246,Family User,30-39,Bengaluru,Android,ICICI Bank,03-06-2025
+U0247,Family User,30-39,Bengaluru,Android,ICICI Bank,19-01-2024
+U0248,Budget Conscious,45-54,Mumbai,Android,Axis Bank,20-02-2026
+U0249,Working Professional,25-34,Ludhiana,Android,Axis Bank,25-01-2026
+U0250,Family User,50-59,Delhi,Android,Kotak Mahindra Bank,01-11-2024
+U0251,Working Professional,35-44,Delhi,Android,Axis Bank,01-12-2025
+U0252,Frequent Traveler,35-44,Jaipur,Android,Axis Bank,23-04-2026
+U0253,Student,18-20,Chandigarh,Android,HDFC Bank,19-10-2023
+U0254,Student,21-24,Pune,iOS,Kotak Mahindra Bank,28-09-2025
+U0255,Working Professional,35-44,Kolkata,Android,HDFC Bank,05-11-2023
+U0256,Frequent Traveler,45-54,Ludhiana,Android,ICICI Bank,01-11-2023
+U0257,Working Professional,22-24,Pune,Android,Axis Bank,12-03-2025
+U0258,Working Professional,35-44,Mumbai,Android,State Bank of India,05-11-2025
+U0259,Family User,40-49,Bengaluru,Android,Axis Bank,11-07-2024
+U0260,Student,18-20,Mumbai,Android,State Bank of India,17-10-2023
+U0261,Frequent Traveler,45-54,Delhi,Android,Kotak Mahindra Bank,04-02-2026
+U0262,Family User,50-59,Mumbai,Android,Axis Bank,13-12-2023
+U0263,Frequent Traveler,45-54,Delhi,iOS,Kotak Mahindra Bank,10-01-2026
+U0264,Working Professional,22-24,Kolkata,Android,ICICI Bank,24-02-2026
+U0265,Family User,30-39,Mumbai,Android,Kotak Mahindra Bank,01-03-2024
+U0266,Working Professional,25-34,Kolkata,Android,Axis Bank,04-03-2026
+U0267,Frequent Traveler,45-54,Kolkata,Android,Kotak Mahindra Bank,16-11-2024
+U0268,Student,21-24,Delhi,Android,State Bank of India,15-08-2023
+U0269,High Spender,40-49,Delhi,Android,ICICI Bank,05-03-2026
+U0270,Family User,40-49,Mumbai,Android,HDFC Bank,20-11-2023
+U0271,Student,18-20,Pune,Android,State Bank of India,04-11-2025
+U0272,Student,21-24,Ahmedabad,Android,Kotak Mahindra Bank,04-07-2026
+U0273,Family User,30-39,Bengaluru,Android,Kotak Mahindra Bank,04-12-2025
+U0274,Student,18-20,Gurgaon,Android,Axis Bank,10-04-2025
+U0275,Working Professional,25-34,Pune,Android,Kotak Mahindra Bank,22-09-2023
+U0276,Student,21-24,Mumbai,Android,Kotak Mahindra Bank,15-08-2023
+U0277,Working Professional,35-44,Gurgaon,Android,Axis Bank,03-12-2023
+U0278,High Spender,30-39,Delhi,Android,ICICI Bank,01-07-2025
+U0279,Budget Conscious,35-44,Gurgaon,Android,HDFC Bank,17-09-2025
+U0280,Working Professional,25-34,Bengaluru,Android,Kotak Mahindra Bank,25-05-2025
+U0281,Budget Conscious,45-54,Ludhiana,iOS,State Bank of India,06-10-2023
+U0282,Student,18-20,Pune,Android,HDFC Bank,19-09-2025
+U0283,Frequent Traveler,45-54,Pune,Android,Axis Bank,20-08-2023
+U0284,Working Professional,25-34,Delhi,iOS,ICICI Bank,30-01-2024
+U0285,Frequent Traveler,45-54,Hyderabad,iOS,State Bank of India,10-07-2024
+U0286,Student,18-20,Noida,Android,Axis Bank,26-07-2024
+U0287,Family User,40-49,Gurgaon,Android,ICICI Bank,20-01-2026
+U0288,Working Professional,22-24,Mumbai,Android,HDFC Bank,02-06-2024
+U0289,Family User,30-39,Chandigarh,Android,ICICI Bank,26-02-2024
+U0290,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,04-05-2024
+U0291,Student,18-20,Bengaluru,iOS,Axis Bank,02-05-2026
+U0292,Working Professional,35-44,Kolkata,Android,Kotak Mahindra Bank,11-11-2025
+U0293,Family User,50-59,Chandigarh,iOS,State Bank of India,21-02-2024
+U0294,Student,18-20,Hyderabad,Android,State Bank of India,20-07-2024
+U0295,Budget Conscious,45-54,Delhi,Android,HDFC Bank,03-12-2023
+U0296,Working Professional,25-34,Delhi,Android,State Bank of India,04-05-2026
+U0297,Student,18-20,Kolkata,Android,Axis Bank,29-05-2025
+U0298,Working Professional,35-44,Ahmedabad,iOS,Axis Bank,27-10-2023
+U0299,High Spender,50-59,Jaipur,Android,Kotak Mahindra Bank,02-01-2024
+U0300,Working Professional,22-24,Delhi,Android,State Bank of India,04-11-2023
+U0301,High Spender,30-39,Ludhiana,Android,HDFC Bank,08-04-2026
+U0302,Working Professional,25-34,Hyderabad,Android,Kotak Mahindra Bank,14-02-2024
+U0303,Student,21-24,Gurgaon,Android,State Bank of India,31-05-2025
+U0304,Family User,30-39,Jaipur,Android,HDFC Bank,12-09-2023
+U0305,Working Professional,35-44,Jaipur,Android,State Bank of India,01-03-2026
+U0306,Budget Conscious,45-54,Kolkata,iOS,State Bank of India,25-11-2025
+U0307,Student,18-20,Chandigarh,Android,Axis Bank,03-10-2024
+U0308,Student,18-20,Gurgaon,Android,State Bank of India,05-07-2026
+U0309,Frequent Traveler,45-54,Ahmedabad,iOS,Kotak Mahindra Bank,21-03-2025
+U0310,Student,21-24,Ludhiana,Android,State Bank of India,22-08-2025
+U0311,Working Professional,22-24,Chandigarh,iOS,Axis Bank,19-04-2026
+U0312,Student,18-20,Bengaluru,Android,HDFC Bank,22-07-2024
+U0313,Family User,50-59,Ahmedabad,iOS,HDFC Bank,28-05-2024
+U0314,Family User,50-59,Bengaluru,Android,ICICI Bank,12-08-2024
+U0315,Student,18-20,Ahmedabad,Android,Axis Bank,29-08-2025
+U0316,Working Professional,35-44,Noida,iOS,Kotak Mahindra Bank,19-01-2026
+U0317,Working Professional,35-44,Hyderabad,Android,ICICI Bank,18-06-2026
+U0318,Working Professional,25-34,Noida,Android,Kotak Mahindra Bank,15-07-2024
+U0319,High Spender,40-49,Gurgaon,Android,Kotak Mahindra Bank,09-03-2026
+U0320,Family User,30-39,Noida,Android,ICICI Bank,18-07-2025
+U0321,Frequent Traveler,25-34,Jaipur,Android,State Bank of India,28-01-2026
+U0322,Family User,30-39,Ahmedabad,iOS,HDFC Bank,23-01-2025
+U0323,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,28-04-2026
+U0324,Student,21-24,Mumbai,iOS,ICICI Bank,21-08-2023
+U0325,Frequent Traveler,35-44,Delhi,Android,Axis Bank,07-06-2025
+U0326,Family User,30-39,Pune,iOS,State Bank of India,30-10-2024
+U0327,Working Professional,25-34,Mumbai,iOS,State Bank of India,27-11-2024
+U0328,Budget Conscious,25-34,Delhi,Android,Axis Bank,06-02-2026
+U0329,Budget Conscious,25-34,Ahmedabad,Android,Kotak Mahindra Bank,20-03-2024
+U0330,Student,18-20,Delhi,Android,ICICI Bank,15-04-2025
+U0331,Family User,50-59,Kolkata,Android,HDFC Bank,12-09-2024
+U0332,Budget Conscious,25-34,Gurgaon,Android,ICICI Bank,05-06-2024
+U0333,Working Professional,35-44,Hyderabad,Android,Axis Bank,21-01-2025
+U0334,Family User,30-39,Jaipur,Android,ICICI Bank,31-12-2023
+U0335,Budget Conscious,35-44,Pune,Android,State Bank of India,15-04-2026
+U0336,Working Professional,25-34,Bengaluru,Android,HDFC Bank,20-07-2024
+U0337,Family User,40-49,Mumbai,iOS,Kotak Mahindra Bank,25-10-2023
+U0338,Family User,50-59,Ludhiana,Android,Axis Bank,26-02-2026
+U0339,Student,21-24,Chandigarh,Android,HDFC Bank,28-10-2023
+U0340,Working Professional,22-24,Chandigarh,Android,HDFC Bank,23-02-2026
+U0341,Budget Conscious,45-54,Chandigarh,Android,State Bank of India,12-07-2024
+U0342,Family User,50-59,Bengaluru,iOS,Axis Bank,16-05-2026
+U0343,High Spender,40-49,Jaipur,Android,ICICI Bank,15-11-2024
+U0344,Student,21-24,Delhi,Android,HDFC Bank,22-12-2024
+U0345,Budget Conscious,25-34,Chandigarh,iOS,Kotak Mahindra Bank,23-12-2025
+U0346,Working Professional,35-44,Hyderabad,Android,ICICI Bank,01-12-2025
+U0347,Working Professional,22-24,Jaipur,Android,HDFC Bank,24-04-2024
+U0348,Budget Conscious,35-44,Pune,Android,Axis Bank,03-05-2025
+U0349,Working Professional,22-24,Hyderabad,Android,State Bank of India,05-12-2023
+U0350,High Spender,50-59,Gurgaon,Android,Axis Bank,15-08-2024
+U0351,Student,18-20,Ludhiana,Android,HDFC Bank,21-11-2023
+U0352,Student,21-24,Gurgaon,Android,Axis Bank,17-05-2026
+U0353,Student,21-24,Chandigarh,Android,State Bank of India,14-10-2023
+U0354,Family User,40-49,Gurgaon,Android,HDFC Bank,25-12-2023
+U0355,Student,21-24,Chandigarh,Android,ICICI Bank,12-09-2023
+U0356,High Spender,30-39,Kolkata,Android,Axis Bank,14-02-2026
+U0357,Student,18-20,Noida,Android,State Bank of India,24-05-2025
+U0358,Working Professional,35-44,Delhi,Android,Axis Bank,29-10-2024
+U0359,High Spender,40-49,Hyderabad,Android,Kotak Mahindra Bank,13-06-2026
+U0360,Student,21-24,Pune,Android,State Bank of India,16-08-2025
+U0361,Working Professional,22-24,Delhi,Android,Axis Bank,06-11-2024
+U0362,Family User,50-59,Mumbai,Android,State Bank of India,06-06-2024
+U0363,Budget Conscious,25-34,Kolkata,Android,Axis Bank,15-01-2025
+U0364,Working Professional,22-24,Mumbai,Android,Axis Bank,07-11-2025
+U0365,High Spender,50-59,Chandigarh,Android,HDFC Bank,24-02-2024
+U0366,Family User,40-49,Gurgaon,iOS,ICICI Bank,12-04-2025
+U0367,Budget Conscious,45-54,Noida,Android,ICICI Bank,17-09-2024
+U0368,Budget Conscious,25-34,Hyderabad,Android,Kotak Mahindra Bank,23-06-2024
+U0369,Family User,40-49,Ludhiana,Android,HDFC Bank,29-01-2025
+U0370,Student,21-24,Ahmedabad,Android,Kotak Mahindra Bank,11-03-2026
+U0371,Working Professional,25-34,Kolkata,Android,State Bank of India,04-01-2024
+U0372,Family User,40-49,Hyderabad,Android,State Bank of India,13-11-2023
+U0373,Student,18-20,Bengaluru,Android,HDFC Bank,25-06-2025
+U0374,Frequent Traveler,45-54,Bengaluru,Android,ICICI Bank,05-02-2026
+U0375,Working Professional,35-44,Noida,Android,Kotak Mahindra Bank,07-04-2024
+U0376,Frequent Traveler,25-34,Gurgaon,Android,Kotak Mahindra Bank,25-09-2023
+U0377,Working Professional,35-44,Gurgaon,Android,HDFC Bank,01-07-2026
+U0378,Family User,30-39,Kolkata,iOS,ICICI Bank,11-10-2023
+U0379,Student,21-24,Kolkata,Android,HDFC Bank,18-07-2024
+U0380,Student,21-24,Jaipur,Android,Kotak Mahindra Bank,26-04-2025
+U0381,Working Professional,35-44,Delhi,Android,Kotak Mahindra Bank,30-10-2024
+U0382,Working Professional,25-34,Hyderabad,Android,Axis Bank,26-05-2024
+U0383,Working Professional,22-24,Ahmedabad,Android,Axis Bank,03-07-2024
+U0384,Working Professional,25-34,Noida,Android,ICICI Bank,02-02-2026
+U0385,Working Professional,35-44,Chandigarh,Android,State Bank of India,01-11-2024
+U0386,High Spender,30-39,Chandigarh,Android,HDFC Bank,05-05-2026
+U0387,Working Professional,25-34,Mumbai,Android,ICICI Bank,23-05-2024
+U0388,Student,18-20,Gurgaon,iOS,Kotak Mahindra Bank,23-08-2025
+U0389,Working Professional,22-24,Chandigarh,iOS,State Bank of India,22-08-2023
+U0390,Student,18-20,Hyderabad,iOS,Axis Bank,30-03-2025
+U0391,Working Professional,25-34,Hyderabad,Android,Axis Bank,23-04-2024
+U0392,Family User,30-39,Noida,Android,HDFC Bank,21-06-2026
+U0393,Student,21-24,Kolkata,iOS,Axis Bank,29-12-2025
+U0394,Working Professional,22-24,Mumbai,Android,State Bank of India,30-10-2024
+U0395,Budget Conscious,35-44,Chandigarh,Android,HDFC Bank,16-11-2023
+U0396,Family User,30-39,Chandigarh,Android,HDFC Bank,19-06-2026
+U0397,Working Professional,25-34,Ludhiana,Android,Kotak Mahindra Bank,17-01-2026
+U0398,Budget Conscious,25-34,Bengaluru,iOS,Axis Bank,24-07-2025
+U0399,Working Professional,25-34,Ludhiana,iOS,ICICI Bank,12-05-2026
+U0400,Student,21-24,Ludhiana,Android,HDFC Bank,15-08-2023
+U0401,Student,21-24,Hyderabad,Android,ICICI Bank,18-10-2024
+U0402,Family User,50-59,Bengaluru,Android,Kotak Mahindra Bank,17-12-2024
+U0403,Working Professional,25-34,Kolkata,Android,State Bank of India,21-01-2025
+U0404,Family User,50-59,Ludhiana,Android,Kotak Mahindra Bank,02-01-2026
+U0405,Working Professional,22-24,Chandigarh,Android,HDFC Bank,24-03-2024
+U0406,High Spender,50-59,Gurgaon,Android,HDFC Bank,02-11-2024
+U0407,Family User,40-49,Jaipur,Android,Kotak Mahindra Bank,26-09-2023
+U0408,Family User,50-59,Delhi,Android,ICICI Bank,23-04-2025
+U0409,Family User,50-59,Kolkata,Android,Axis Bank,14-03-2025
+U0410,Student,18-20,Delhi,Android,HDFC Bank,02-07-2024
+U0411,Student,21-24,Chandigarh,Android,Axis Bank,08-04-2026
+U0412,Budget Conscious,35-44,Ludhiana,Android,Axis Bank,02-12-2023
+U0413,Frequent Traveler,45-54,Ahmedabad,Android,ICICI Bank,19-08-2023
+U0414,Family User,50-59,Chandigarh,iOS,Axis Bank,11-11-2023
+U0415,Family User,40-49,Bengaluru,Android,Kotak Mahindra Bank,12-08-2025
+U0416,Working Professional,25-34,Jaipur,Android,State Bank of India,13-11-2025
+U0417,Family User,30-39,Noida,Android,State Bank of India,24-11-2024
+U0418,Working Professional,25-34,Gurgaon,Android,Axis Bank,23-08-2024
+U0419,Working Professional,25-34,Ludhiana,iOS,State Bank of India,18-04-2025
+U0420,Working Professional,35-44,Jaipur,Android,Axis Bank,03-09-2023
+U0421,Frequent Traveler,25-34,Gurgaon,Android,HDFC Bank,12-06-2024
+U0422,Working Professional,25-34,Jaipur,Android,Axis Bank,19-12-2025
+U0423,Working Professional,35-44,Gurgaon,iOS,State Bank of India,11-06-2024
+U0424,Student,18-20,Noida,Android,Kotak Mahindra Bank,17-10-2025
+U0425,Working Professional,22-24,Delhi,Android,State Bank of India,12-01-2025
+U0426,Budget Conscious,25-34,Jaipur,Android,HDFC Bank,28-04-2025
+U0427,High Spender,30-39,Pune,Android,Axis Bank,05-03-2024
+U0428,Working Professional,22-24,Gurgaon,Android,HDFC Bank,06-02-2025
+U0429,High Spender,30-39,Jaipur,Android,Kotak Mahindra Bank,08-02-2026
+U0430,Budget Conscious,25-34,Bengaluru,Android,ICICI Bank,12-11-2025
+U0431,High Spender,30-39,Pune,Android,ICICI Bank,29-09-2024
+U0432,High Spender,40-49,Delhi,Android,Kotak Mahindra Bank,07-10-2025
+U0433,Family User,40-49,Gurgaon,Android,Kotak Mahindra Bank,27-02-2026
+U0434,Family User,30-39,Ludhiana,Android,ICICI Bank,13-03-2025
+U0435,Frequent Traveler,35-44,Bengaluru,Android,State Bank of India,10-05-2024
+U0436,Budget Conscious,25-34,Ahmedabad,Android,State Bank of India,08-03-2024
+U0437,Family User,30-39,Bengaluru,Android,Axis Bank,01-12-2023
+U0438,Frequent Traveler,45-54,Chandigarh,Android,HDFC Bank,27-01-2025
+U0439,Student,18-20,Hyderabad,Android,ICICI Bank,04-09-2024
+U0440,Student,21-24,Noida,Android,State Bank of India,05-09-2023
+U0441,High Spender,40-49,Kolkata,Android,HDFC Bank,26-10-2023
+U0442,Working Professional,25-34,Ahmedabad,Android,HDFC Bank,03-02-2024
+U0443,Working Professional,22-24,Pune,Android,State Bank of India,06-03-2024
+U0444,Budget Conscious,45-54,Gurgaon,Android,ICICI Bank,24-12-2023
+U0445,Working Professional,22-24,Hyderabad,Android,Kotak Mahindra Bank,03-09-2025
+U0446,Working Professional,35-44,Ludhiana,iOS,Kotak Mahindra Bank,24-03-2024
+U0447,Frequent Traveler,25-34,Noida,Android,Kotak Mahindra Bank,29-07-2025
+U0448,Frequent Traveler,25-34,Ludhiana,Android,State Bank of India,17-06-2026
+U0449,Student,18-20,Delhi,iOS,Kotak Mahindra Bank,03-03-2024
+U0450,Working Professional,35-44,Bengaluru,Android,Kotak Mahindra Bank,16-07-2025
+U0451,Working Professional,35-44,Noida,Android,Axis Bank,29-05-2025
+U0452,Student,21-24,Delhi,Android,Kotak Mahindra Bank,03-01-2025
+U0453,Working Professional,35-44,Delhi,Android,State Bank of India,15-11-2025
+U0454,Budget Conscious,35-44,Gurgaon,Android,ICICI Bank,16-11-2025
+U0455,Family User,30-39,Pune,Android,HDFC Bank,29-10-2025
+U0456,Family User,30-39,Mumbai,iOS,Axis Bank,02-07-2026
+U0457,Student,21-24,Bengaluru,Android,Axis Bank,02-03-2025
+U0458,Working Professional,25-34,Hyderabad,iOS,Axis Bank,30-06-2025
+U0459,Working Professional,35-44,Jaipur,iOS,ICICI Bank,12-02-2024
+U0460,Family User,40-49,Mumbai,Android,Kotak Mahindra Bank,26-05-2024
+U0461,Working Professional,22-24,Ahmedabad,iOS,HDFC Bank,25-08-2023
+U0462,Budget Conscious,35-44,Hyderabad,Android,Kotak Mahindra Bank,02-04-2024
+U0463,Working Professional,25-34,Noida,Android,State Bank of India,11-04-2024
+U0464,Student,18-20,Ahmedabad,Android,HDFC Bank,21-10-2025
+U0465,Frequent Traveler,35-44,Kolkata,Android,HDFC Bank,23-05-2024
+U0466,Working Professional,22-24,Mumbai,Android,Axis Bank,04-06-2024
+U0467,Family User,50-59,Delhi,Android,HDFC Bank,30-07-2025
+U0468,Working Professional,22-24,Ludhiana,Android,HDFC Bank,25-09-2023
+U0469,Student,21-24,Noida,Android,Kotak Mahindra Bank,22-01-2025
+U0470,Working Professional,35-44,Jaipur,Android,ICICI Bank,21-09-2024
+U0471,Working Professional,22-24,Jaipur,Android,Axis Bank,24-04-2025
+U0472,Working Professional,22-24,Ludhiana,iOS,ICICI Bank,23-10-2024
+U0473,Family User,40-49,Ludhiana,Android,State Bank of India,27-03-2025
+U0474,High Spender,50-59,Pune,Android,State Bank of India,22-11-2025
+U0475,Budget Conscious,35-44,Bengaluru,Android,ICICI Bank,22-02-2025
+U0476,Budget Conscious,35-44,Noida,iOS,State Bank of India,21-03-2025
+U0477,Frequent Traveler,25-34,Hyderabad,iOS,Kotak Mahindra Bank,11-03-2026
+U0478,Working Professional,25-34,Ludhiana,Android,Axis Bank,23-03-2025
+U0479,Working Professional,22-24,Chandigarh,Android,Axis Bank,15-07-2025
+U0480,Frequent Traveler,25-34,Ludhiana,Android,ICICI Bank,05-05-2024
+U0481,Student,21-24,Jaipur,Android,HDFC Bank,05-01-2025
+U0482,Frequent Traveler,25-34,Kolkata,Android,Kotak Mahindra Bank,24-10-2024
+U0483,Working Professional,22-24,Chandigarh,Android,HDFC Bank,12-11-2024
+U0484,Working Professional,22-24,Ahmedabad,Android,Axis Bank,08-06-2026
+U0485,High Spender,50-59,Kolkata,Android,Axis Bank,11-08-2024
+U0486,High Spender,50-59,Chandigarh,Android,Axis Bank,24-09-2025
+U0487,Working Professional,35-44,Chandigarh,Android,State Bank of India,14-02-2024
+U0488,Family User,40-49,Hyderabad,Android,Axis Bank,23-04-2025
+U0489,Budget Conscious,35-44,Noida,Android,Axis Bank,04-07-2026
+U0490,Student,18-20,Ahmedabad,Android,State Bank of India,25-05-2024
+U0491,Family User,50-59,Kolkata,Android,State Bank of India,18-02-2024
+U0492,Student,21-24,Noida,Android,ICICI Bank,29-03-2025
+U0493,Working Professional,35-44,Jaipur,Android,Axis Bank,28-11-2025
+U0494,High Spender,50-59,Ahmedabad,Android,ICICI Bank,29-09-2023
+U0495,Budget Conscious,35-44,Bengaluru,Android,Kotak Mahindra Bank,23-05-2025
+U0496,Working Professional,35-44,Jaipur,iOS,Kotak Mahindra Bank,13-03-2026
+U0497,Student,18-20,Jaipur,Android,HDFC Bank,04-03-2026
+U0498,Working Professional,35-44,Noida,Android,ICICI Bank,28-03-2025
+U0499,Student,21-24,Chandigarh,Android,Kotak Mahindra Bank,06-11-2023
+U0500,High Spender,50-59,Hyderabad,Android,Kotak Mahindra Bank,29-10-2023
+U0501,Family User,30-39,Delhi,Android,State Bank of India,16-07-2024
+U0502,Family User,40-49,Delhi,Android,Axis Bank,24-04-2026
+U0503,Frequent Traveler,25-34,Mumbai,iOS,Kotak Mahindra Bank,10-05-2026
+U0504,Student,18-20,Kolkata,Android,State Bank of India,05-02-2026
+U0505,Working Professional,25-34,Mumbai,Android,Axis Bank,13-01-2024
+U0506,Working Professional,22-24,Ahmedabad,Android,HDFC Bank,26-04-2025
+U0507,Family User,50-59,Delhi,Android,Axis Bank,10-01-2024
+U0508,Working Professional,25-34,Delhi,Android,ICICI Bank,01-04-2026
+U0509,Student,21-24,Jaipur,Android,Kotak Mahindra Bank,18-11-2023
+U0510,High Spender,30-39,Ludhiana,iOS,ICICI Bank,08-11-2023
+U0511,Working Professional,35-44,Kolkata,Android,HDFC Bank,02-04-2026
+U0512,High Spender,50-59,Gurgaon,iOS,Kotak Mahindra Bank,16-11-2025
+U0513,Family User,30-39,Chandigarh,Android,ICICI Bank,27-03-2026
+U0514,Family User,50-59,Pune,iOS,State Bank of India,21-12-2023
+U0515,Student,18-20,Kolkata,iOS,Axis Bank,19-03-2025
+U0516,Family User,50-59,Chandigarh,Android,ICICI Bank,02-08-2024
+U0517,Budget Conscious,45-54,Ahmedabad,Android,State Bank of India,04-01-2026
+U0518,Student,21-24,Noida,iOS,State Bank of India,06-08-2025
+U0519,Family User,50-59,Kolkata,Android,State Bank of India,31-10-2024
+U0520,Student,21-24,Hyderabad,Android,State Bank of India,13-11-2023
+U0521,Family User,40-49,Pune,Android,Kotak Mahindra Bank,07-03-2024
+U0522,Family User,30-39,Kolkata,Android,ICICI Bank,24-11-2025
+U0523,Budget Conscious,25-34,Gurgaon,Android,ICICI Bank,01-03-2025
+U0524,Budget Conscious,35-44,Chandigarh,Android,HDFC Bank,04-04-2025
+U0525,High Spender,40-49,Chandigarh,Android,HDFC Bank,30-04-2026
+U0526,Student,18-20,Pune,Android,Kotak Mahindra Bank,02-08-2025
+U0527,Family User,30-39,Delhi,Android,Kotak Mahindra Bank,12-03-2024
+U0528,Student,21-24,Pune,Android,Axis Bank,23-03-2024
+U0529,Working Professional,22-24,Ahmedabad,iOS,ICICI Bank,28-06-2026
+U0530,Family User,30-39,Jaipur,Android,ICICI Bank,07-10-2025
+U0531,Working Professional,25-34,Hyderabad,Android,ICICI Bank,02-06-2025
+U0532,Working Professional,25-34,Gurgaon,Android,HDFC Bank,03-03-2024
+U0533,Working Professional,22-24,Ahmedabad,Android,Kotak Mahindra Bank,26-04-2026
+U0534,Family User,40-49,Mumbai,Android,HDFC Bank,29-06-2025
+U0535,High Spender,40-49,Kolkata,Android,State Bank of India,05-01-2026
+U0536,Working Professional,25-34,Jaipur,iOS,ICICI Bank,07-01-2026
+U0537,Working Professional,35-44,Ahmedabad,Android,State Bank of India,25-02-2025
+U0538,Student,21-24,Chandigarh,Android,Axis Bank,16-01-2025
+U0539,High Spender,30-39,Chandigarh,Android,Axis Bank,10-10-2023
+U0540,Working Professional,35-44,Noida,Android,Kotak Mahindra Bank,20-09-2025
+U0541,Student,18-20,Ahmedabad,Android,ICICI Bank,27-12-2025
+U0542,Working Professional,25-34,Ahmedabad,Android,Axis Bank,09-07-2024
+U0543,Family User,30-39,Jaipur,Android,State Bank of India,02-03-2025
+U0544,Family User,50-59,Pune,Android,HDFC Bank,25-02-2024
+U0545,Working Professional,35-44,Hyderabad,Android,Kotak Mahindra Bank,21-06-2024
+U0546,Family User,50-59,Pune,Android,State Bank of India,03-11-2024
+U0547,Budget Conscious,45-54,Kolkata,Android,HDFC Bank,13-03-2025
+U0548,Student,18-20,Jaipur,Android,ICICI Bank,22-03-2025
+U0549,Family User,30-39,Kolkata,iOS,Axis Bank,13-05-2026
+U0550,High Spender,40-49,Pune,Android,HDFC Bank,30-10-2023
+U0551,Working Professional,35-44,Ahmedabad,Android,Kotak Mahindra Bank,17-03-2025
+U0552,Budget Conscious,25-34,Hyderabad,Android,Axis Bank,18-09-2025
+U0553,Budget Conscious,45-54,Ahmedabad,Android,State Bank of India,10-01-2026
+U0554,High Spender,40-49,Mumbai,Android,HDFC Bank,26-11-2023
+U0555,Student,18-20,Chandigarh,Android,Axis Bank,05-08-2025
+U0556,Budget Conscious,45-54,Hyderabad,Android,HDFC Bank,02-03-2026
+U0557,Working Professional,35-44,Hyderabad,Android,State Bank of India,01-09-2023
+U0558,Student,18-20,Delhi,iOS,HDFC Bank,17-06-2025
+U0559,Family User,30-39,Ahmedabad,Android,ICICI Bank,04-05-2024
+U0560,Family User,40-49,Ludhiana,Android,Axis Bank,31-10-2023
+U0561,Working Professional,25-34,Jaipur,Android,Axis Bank,08-05-2026
+U0562,Working Professional,35-44,Kolkata,iOS,Axis Bank,05-05-2026
+U0563,Family User,40-49,Delhi,Android,ICICI Bank,13-05-2025
+U0564,Working Professional,35-44,Mumbai,Android,Kotak Mahindra Bank,13-10-2025
+U0565,Student,21-24,Noida,Android,State Bank of India,05-08-2024
+U0566,Family User,40-49,Ludhiana,iOS,State Bank of India,27-01-2026
+U0567,Family User,50-59,Pune,Android,State Bank of India,21-01-2025
+U0568,Working Professional,25-34,Kolkata,Android,State Bank of India,08-09-2024
+U0569,High Spender,50-59,Mumbai,Android,State Bank of India,09-08-2023
+U0570,Student,21-24,Mumbai,Android,ICICI Bank,31-10-2025
+U0571,Family User,40-49,Kolkata,Android,Axis Bank,18-09-2023
+U0572,Working Professional,25-34,Jaipur,Android,ICICI Bank,15-07-2024
+U0573,Family User,40-49,Gurgaon,Android,State Bank of India,14-09-2023
+U0574,Frequent Traveler,45-54,Delhi,iOS,HDFC Bank,05-03-2026
+U0575,Working Professional,22-24,Pune,iOS,Kotak Mahindra Bank,18-03-2025
+U0576,Family User,40-49,Jaipur,Android,Axis Bank,10-08-2025
+U0577,Working Professional,22-24,Kolkata,Android,ICICI Bank,03-04-2025
+U0578,Working Professional,25-34,Noida,Android,ICICI Bank,02-09-2025
+U0579,Budget Conscious,45-54,Ahmedabad,Android,Axis Bank,04-09-2025
+U0580,Family User,30-39,Kolkata,Android,Kotak Mahindra Bank,22-09-2023
+U0581,Frequent Traveler,35-44,Ludhiana,iOS,HDFC Bank,29-10-2024
+U0582,Budget Conscious,35-44,Ludhiana,Android,Axis Bank,31-10-2025
+U0583,Student,18-20,Gurgaon,iOS,HDFC Bank,12-11-2023
+U0584,Working Professional,25-34,Mumbai,Android,HDFC Bank,23-12-2025
+U0585,Budget Conscious,25-34,Noida,Android,Kotak Mahindra Bank,28-06-2026
+U0586,Budget Conscious,45-54,Kolkata,Android,ICICI Bank,13-06-2024
+U0587,Family User,30-39,Noida,Android,Kotak Mahindra Bank,22-03-2024
+U0588,Working Professional,25-34,Kolkata,Android,State Bank of India,09-12-2025
+U0589,High Spender,40-49,Gurgaon,Android,Kotak Mahindra Bank,22-06-2025
+U0590,High Spender,50-59,Mumbai,Android,Axis Bank,25-10-2023
+U0591,High Spender,40-49,Jaipur,Android,ICICI Bank,15-07-2025
+U0592,Working Professional,35-44,Chandigarh,iOS,Axis Bank,30-06-2026
+U0593,Working Professional,35-44,Jaipur,Android,Axis Bank,29-05-2026
+U0594,Working Professional,22-24,Jaipur,Android,HDFC Bank,27-10-2025
+U0595,Working Professional,35-44,Gurgaon,Android,State Bank of India,16-03-2026
+U0596,Working Professional,25-34,Chandigarh,Android,HDFC Bank,01-10-2024
+U0597,Budget Conscious,35-44,Jaipur,Android,State Bank of India,27-06-2024
+U0598,Frequent Traveler,45-54,Pune,Android,Axis Bank,21-12-2025
+U0599,Frequent Traveler,35-44,Gurgaon,Android,State Bank of India,13-11-2023
+U0600,Working Professional,35-44,Bengaluru,Android,Axis Bank,25-11-2025
+U0601,Budget Conscious,45-54,Delhi,Android,Axis Bank,24-12-2024
+U0602,Student,18-20,Hyderabad,Android,Axis Bank,20-03-2025
+U0603,Working Professional,35-44,Bengaluru,iOS,State Bank of India,22-10-2024
+U0604,Student,21-24,Mumbai,Android,State Bank of India,10-12-2023
+U0605,Student,18-20,Delhi,Android,State Bank of India,06-03-2024
+U0606,Budget Conscious,25-34,Pune,Android,HDFC Bank,30-09-2025
+U0607,Student,21-24,Mumbai,Android,ICICI Bank,20-05-2026
+U0608,Family User,40-49,Delhi,Android,State Bank of India,15-04-2025
+U0609,Frequent Traveler,35-44,Ahmedabad,Android,HDFC Bank,03-07-2024
+U0610,Working Professional,22-24,Ahmedabad,Android,HDFC Bank,10-08-2023
+U0611,Working Professional,25-34,Bengaluru,Android,ICICI Bank,22-05-2024
+U0612,Family User,50-59,Bengaluru,Android,Kotak Mahindra Bank,31-03-2025
+U0613,Student,18-20,Hyderabad,Android,ICICI Bank,27-07-2025
+U0614,Family User,30-39,Pune,Android,Axis Bank,09-02-2026
+U0615,Frequent Traveler,25-34,Mumbai,Android,HDFC Bank,26-05-2025
+U0616,Family User,40-49,Chandigarh,iOS,State Bank of India,20-02-2024
+U0617,Budget Conscious,25-34,Gurgaon,Android,ICICI Bank,11-02-2026
+U0618,Family User,50-59,Ahmedabad,Android,HDFC Bank,23-12-2025
+U0619,Frequent Traveler,45-54,Gurgaon,Android,Kotak Mahindra Bank,01-07-2024
+U0620,Family User,50-59,Pune,Android,HDFC Bank,27-10-2025
+U0621,Budget Conscious,25-34,Hyderabad,Android,ICICI Bank,05-01-2026
+U0622,Working Professional,35-44,Mumbai,Android,HDFC Bank,25-03-2026
+U0623,High Spender,40-49,Bengaluru,Android,Kotak Mahindra Bank,28-01-2025
+U0624,Working Professional,35-44,Jaipur,Android,Axis Bank,14-11-2023
+U0625,High Spender,30-39,Delhi,Android,HDFC Bank,31-07-2024
+U0626,Working Professional,22-24,Delhi,iOS,Axis Bank,30-12-2023
+U0627,Family User,50-59,Ahmedabad,Android,Axis Bank,28-10-2025
+U0628,Working Professional,25-34,Mumbai,Android,Kotak Mahindra Bank,24-01-2024
+U0629,Family User,40-49,Mumbai,Android,Kotak Mahindra Bank,15-09-2025
+U0630,High Spender,30-39,Ludhiana,Android,Kotak Mahindra Bank,08-12-2023
+U0631,Family User,50-59,Jaipur,Android,State Bank of India,26-09-2023
+U0632,Budget Conscious,45-54,Noida,Android,HDFC Bank,12-04-2026
+U0633,High Spender,30-39,Hyderabad,Android,HDFC Bank,30-01-2024
+U0634,Working Professional,35-44,Jaipur,Android,HDFC Bank,31-07-2024
+U0635,Student,18-20,Ahmedabad,Android,Axis Bank,26-11-2024
+U0636,High Spender,50-59,Ludhiana,Android,State Bank of India,26-08-2025
+U0637,Student,18-20,Ahmedabad,Android,State Bank of India,11-07-2025
+U0638,Budget Conscious,25-34,Delhi,Android,Axis Bank,22-02-2024
+U0639,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,14-04-2024
+U0640,Family User,40-49,Hyderabad,Android,HDFC Bank,22-11-2025
+U0641,Working Professional,35-44,Bengaluru,Android,State Bank of India,06-09-2023
+U0642,Budget Conscious,45-54,Jaipur,Android,ICICI Bank,24-03-2025
+U0643,Budget Conscious,25-34,Delhi,iOS,HDFC Bank,28-11-2025
+U0644,Working Professional,25-34,Chandigarh,Android,ICICI Bank,05-06-2024
+U0645,Student,18-20,Ludhiana,Android,Axis Bank,19-08-2025
+U0646,Working Professional,22-24,Pune,iOS,State Bank of India,01-10-2025
+U0647,Working Professional,22-24,Kolkata,Android,Kotak Mahindra Bank,10-03-2025
+U0648,Family User,30-39,Bengaluru,Android,Kotak Mahindra Bank,30-09-2023
+U0649,High Spender,40-49,Mumbai,iOS,State Bank of India,18-04-2026
+U0650,Budget Conscious,35-44,Chandigarh,Android,Axis Bank,02-07-2026
+U0651,Student,18-20,Gurgaon,Android,State Bank of India,19-07-2025
+U0652,Budget Conscious,25-34,Hyderabad,Android,Axis Bank,04-03-2026
+U0653,High Spender,30-39,Ahmedabad,iOS,ICICI Bank,22-11-2024
+U0654,Student,21-24,Delhi,Android,State Bank of India,13-02-2026
+U0655,Family User,50-59,Delhi,iOS,HDFC Bank,27-08-2025
+U0656,Budget Conscious,35-44,Ahmedabad,Android,HDFC Bank,06-03-2024
+U0657,Working Professional,22-24,Pune,Android,HDFC Bank,18-09-2025
+U0658,High Spender,30-39,Ahmedabad,Android,HDFC Bank,19-05-2024
+U0659,High Spender,50-59,Pune,Android,State Bank of India,07-05-2026
+U0660,Working Professional,35-44,Mumbai,Android,Kotak Mahindra Bank,29-01-2025
+U0661,Student,21-24,Mumbai,Android,HDFC Bank,25-09-2023
+U0662,Working Professional,22-24,Noida,Android,State Bank of India,06-09-2024
+U0663,High Spender,40-49,Ahmedabad,iOS,State Bank of India,22-01-2025
+U0664,Working Professional,25-34,Noida,Android,ICICI Bank,19-04-2024
+U0665,Student,18-20,Bengaluru,Android,Axis Bank,21-09-2023
+U0666,Working Professional,25-34,Mumbai,Android,ICICI Bank,18-04-2025
+U0667,Working Professional,25-34,Gurgaon,iOS,HDFC Bank,11-03-2026
+U0668,Student,21-24,Ahmedabad,Android,HDFC Bank,17-05-2024
+U0669,Working Professional,25-34,Bengaluru,Android,ICICI Bank,08-01-2024
+U0670,High Spender,40-49,Ludhiana,Android,State Bank of India,09-02-2024
+U0671,Working Professional,22-24,Delhi,iOS,Axis Bank,08-11-2024
+U0672,Family User,50-59,Noida,Android,HDFC Bank,15-08-2023
+U0673,Frequent Traveler,25-34,Mumbai,Android,ICICI Bank,11-12-2024
+U0674,Student,21-24,Chandigarh,Android,HDFC Bank,01-06-2024
+U0675,Family User,40-49,Mumbai,Android,HDFC Bank,22-09-2023
+U0676,Student,21-24,Bengaluru,Android,State Bank of India,06-05-2025
+U0677,Student,21-24,Delhi,Android,Kotak Mahindra Bank,06-11-2024
+U0678,Working Professional,35-44,Pune,Android,Axis Bank,08-09-2025
+U0679,Budget Conscious,25-34,Chandigarh,Android,ICICI Bank,24-10-2023
+U0680,Working Professional,25-34,Bengaluru,Android,Kotak Mahindra Bank,13-03-2025
+U0681,Family User,50-59,Gurgaon,Android,Kotak Mahindra Bank,31-10-2023
+U0682,Working Professional,22-24,Gurgaon,Android,Axis Bank,09-08-2024
+U0683,Student,18-20,Jaipur,iOS,Kotak Mahindra Bank,09-09-2024
+U0684,Budget Conscious,35-44,Ahmedabad,Android,Kotak Mahindra Bank,02-07-2024
+U0685,Budget Conscious,35-44,Kolkata,Android,Axis Bank,27-01-2025
+U0686,Working Professional,22-24,Chandigarh,Android,HDFC Bank,26-01-2026
+U0687,Frequent Traveler,35-44,Delhi,Android,Axis Bank,03-04-2026
+U0688,Family User,50-59,Noida,iOS,HDFC Bank,24-09-2024
+U0689,Working Professional,22-24,Gurgaon,Android,HDFC Bank,06-04-2026
+U0690,Budget Conscious,25-34,Kolkata,iOS,Axis Bank,21-02-2026
+U0691,Working Professional,22-24,Bengaluru,Android,State Bank of India,10-05-2026
+U0692,Frequent Traveler,45-54,Chandigarh,iOS,HDFC Bank,16-10-2025
+U0693,Budget Conscious,35-44,Kolkata,Android,Kotak Mahindra Bank,13-06-2026
+U0694,High Spender,40-49,Ludhiana,Android,Axis Bank,16-01-2026
+U0695,Student,18-20,Noida,Android,HDFC Bank,21-11-2024
+U0696,Family User,30-39,Chandigarh,iOS,ICICI Bank,31-12-2024
+U0697,Frequent Traveler,35-44,Ahmedabad,Android,State Bank of India,21-02-2026
+U0698,Student,18-20,Kolkata,Android,ICICI Bank,27-04-2024
+U0699,Budget Conscious,45-54,Chandigarh,iOS,State Bank of India,21-03-2024
+U0700,Budget Conscious,45-54,Pune,Android,State Bank of India,26-11-2025
+U0701,Working Professional,22-24,Bengaluru,Android,Axis Bank,03-10-2024
+U0702,Budget Conscious,35-44,Jaipur,Android,Kotak Mahindra Bank,02-03-2026
+U0703,Budget Conscious,45-54,Chandigarh,Android,Kotak Mahindra Bank,05-06-2025
+U0704,Frequent Traveler,35-44,Gurgaon,Android,State Bank of India,10-09-2025
+U0705,Student,18-20,Ahmedabad,iOS,Axis Bank,19-02-2026
+U0706,Frequent Traveler,45-54,Delhi,Android,State Bank of India,30-06-2025
+U0707,High Spender,50-59,Noida,Android,HDFC Bank,29-04-2026
+U0708,High Spender,30-39,Chandigarh,Android,ICICI Bank,05-09-2023
+U0709,Working Professional,25-34,Bengaluru,Android,HDFC Bank,12-09-2024
+U0710,Frequent Traveler,45-54,Jaipur,Android,State Bank of India,19-09-2023
+U0711,Working Professional,25-34,Noida,Android,HDFC Bank,24-04-2025
+U0712,Working Professional,22-24,Ahmedabad,Android,Axis Bank,04-04-2024
+U0713,Working Professional,25-34,Bengaluru,iOS,Axis Bank,04-07-2024
+U0714,Frequent Traveler,35-44,Ludhiana,Android,Axis Bank,15-04-2024
+U0715,Budget Conscious,45-54,Jaipur,Android,ICICI Bank,05-12-2025
+U0716,Student,18-20,Delhi,Android,State Bank of India,30-07-2025
+U0717,Working Professional,22-24,Mumbai,Android,Axis Bank,06-07-2026
+U0718,Student,18-20,Ludhiana,iOS,HDFC Bank,12-06-2024
+U0719,Working Professional,35-44,Hyderabad,Android,Axis Bank,05-10-2023
+U0720,High Spender,30-39,Kolkata,iOS,ICICI Bank,18-02-2026
+U0721,Student,21-24,Noida,iOS,Axis Bank,21-11-2023
+U0722,Budget Conscious,45-54,Ahmedabad,Android,State Bank of India,09-09-2024
+U0723,Working Professional,22-24,Delhi,Android,Kotak Mahindra Bank,02-11-2023
+U0724,Frequent Traveler,25-34,Delhi,Android,Axis Bank,03-07-2026
+U0725,Student,21-24,Noida,Android,ICICI Bank,15-07-2025
+U0726,Student,21-24,Mumbai,Android,HDFC Bank,23-05-2024
+U0727,Working Professional,25-34,Hyderabad,Android,State Bank of India,07-02-2025
+U0728,Student,21-24,Bengaluru,Android,Axis Bank,09-09-2023
+U0729,Working Professional,25-34,Delhi,Android,Axis Bank,25-07-2025
+U0730,Working Professional,25-34,Kolkata,Android,HDFC Bank,01-10-2024
+U0731,Student,21-24,Ludhiana,Android,Kotak Mahindra Bank,21-02-2024
+U0732,Working Professional,22-24,Pune,Android,Axis Bank,07-02-2026
+U0733,High Spender,50-59,Hyderabad,Android,ICICI Bank,21-11-2025
+U0734,Working Professional,22-24,Pune,iOS,HDFC Bank,22-12-2024
+U0735,Family User,50-59,Kolkata,Android,Kotak Mahindra Bank,10-02-2024
+U0736,Student,21-24,Bengaluru,iOS,ICICI Bank,23-11-2024
+U0737,High Spender,30-39,Bengaluru,Android,HDFC Bank,14-04-2025
+U0738,High Spender,40-49,Noida,iOS,ICICI Bank,20-02-2026
+U0739,Frequent Traveler,35-44,Chandigarh,iOS,HDFC Bank,03-11-2023
+U0740,Student,21-24,Ludhiana,Android,State Bank of India,11-07-2024
+U0741,Family User,30-39,Ahmedabad,Android,Kotak Mahindra Bank,06-05-2024
+U0742,Budget Conscious,25-34,Pune,Android,Kotak Mahindra Bank,05-03-2025
+U0743,Family User,30-39,Mumbai,Android,HDFC Bank,29-09-2025
+U0744,Budget Conscious,45-54,Chandigarh,iOS,State Bank of India,28-06-2026
+U0745,Working Professional,25-34,Kolkata,Android,HDFC Bank,21-03-2024
+U0746,Student,21-24,Bengaluru,Android,Axis Bank,14-11-2023
+U0747,Student,21-24,Ahmedabad,Android,Axis Bank,13-03-2024
+U0748,High Spender,40-49,Delhi,Android,State Bank of India,07-04-2024
+U0749,Working Professional,25-34,Ahmedabad,Android,ICICI Bank,10-02-2025
+U0750,Student,21-24,Chandigarh,Android,Axis Bank,05-03-2025
+U0751,Family User,30-39,Noida,Android,Axis Bank,06-07-2026
+U0752,Budget Conscious,45-54,Chandigarh,iOS,Kotak Mahindra Bank,05-12-2023
+U0753,Budget Conscious,25-34,Gurgaon,Android,Axis Bank,04-03-2026
+U0754,Student,18-20,Bengaluru,Android,ICICI Bank,23-11-2025
+U0755,Frequent Traveler,25-34,Delhi,Android,State Bank of India,23-02-2024
+U0756,Budget Conscious,35-44,Chandigarh,iOS,Kotak Mahindra Bank,20-03-2025
+U0757,Working Professional,22-24,Jaipur,Android,State Bank of India,27-08-2024
+U0758,Working Professional,25-34,Bengaluru,iOS,Axis Bank,11-03-2024
+U0759,Family User,40-49,Chandigarh,Android,State Bank of India,12-04-2024
+U0760,Budget Conscious,45-54,Mumbai,Android,Axis Bank,31-10-2024
+U0761,Student,18-20,Noida,Android,ICICI Bank,16-06-2026
+U0762,Working Professional,25-34,Ludhiana,Android,HDFC Bank,05-11-2025
+U0763,Working Professional,22-24,Jaipur,Android,HDFC Bank,17-03-2026
+U0764,Working Professional,35-44,Gurgaon,Android,State Bank of India,28-04-2025
+U0765,Working Professional,25-34,Chandigarh,Android,ICICI Bank,08-03-2026
+U0766,Working Professional,35-44,Ludhiana,iOS,Axis Bank,09-04-2025
+U0767,Family User,30-39,Ludhiana,iOS,State Bank of India,04-04-2025
+U0768,Family User,50-59,Kolkata,Android,HDFC Bank,06-03-2026
+U0769,Working Professional,25-34,Gurgaon,Android,State Bank of India,10-08-2024
+U0770,Working Professional,35-44,Jaipur,Android,ICICI Bank,19-07-2024
+U0771,Family User,30-39,Delhi,Android,Kotak Mahindra Bank,17-12-2023
+U0772,Working Professional,25-34,Jaipur,Android,HDFC Bank,20-02-2026
+U0773,Family User,40-49,Gurgaon,iOS,Axis Bank,12-04-2025
+U0774,Working Professional,22-24,Kolkata,Android,Kotak Mahindra Bank,16-10-2025
+U0775,Frequent Traveler,35-44,Ahmedabad,Android,Kotak Mahindra Bank,25-08-2024
+U0776,Family User,40-49,Jaipur,Android,State Bank of India,05-06-2024
+U0777,Frequent Traveler,45-54,Ludhiana,Android,HDFC Bank,02-05-2025
+U0778,Working Professional,35-44,Gurgaon,Android,Kotak Mahindra Bank,07-03-2026
+U0779,Budget Conscious,25-34,Jaipur,iOS,HDFC Bank,29-06-2025
+U0780,Working Professional,22-24,Ahmedabad,iOS,Axis Bank,02-12-2024
+U0781,Budget Conscious,35-44,Chandigarh,Android,State Bank of India,18-06-2025
+U0782,Working Professional,22-24,Hyderabad,Android,Kotak Mahindra Bank,02-08-2025
+U0783,Family User,50-59,Mumbai,Android,ICICI Bank,09-02-2024
+U0784,Family User,50-59,Pune,Android,Axis Bank,30-08-2023
+U0785,Student,18-20,Bengaluru,iOS,State Bank of India,14-09-2023
+U0786,Working Professional,35-44,Hyderabad,Android,ICICI Bank,28-01-2025
+U0787,Budget Conscious,35-44,Chandigarh,Android,ICICI Bank,04-04-2025
+U0788,Working Professional,22-24,Delhi,Android,ICICI Bank,30-01-2025
+U0789,Budget Conscious,25-34,Kolkata,Android,Axis Bank,11-02-2025
+U0790,Budget Conscious,25-34,Bengaluru,Android,Axis Bank,20-04-2024
+U0791,Working Professional,25-34,Pune,Android,Kotak Mahindra Bank,11-09-2025
+U0792,Student,21-24,Delhi,iOS,Kotak Mahindra Bank,22-01-2025
+U0793,Student,18-20,Jaipur,Android,ICICI Bank,17-06-2026
+U0794,Budget Conscious,35-44,Gurgaon,Android,Axis Bank,17-11-2025
+U0795,Family User,40-49,Bengaluru,Android,HDFC Bank,08-12-2025
+U0796,Working Professional,25-34,Hyderabad,Android,Kotak Mahindra Bank,31-08-2023
+U0797,Family User,40-49,Jaipur,iOS,State Bank of India,24-10-2024
+U0798,High Spender,40-49,Chandigarh,Android,ICICI Bank,12-06-2025
+U0799,High Spender,40-49,Delhi,Android,ICICI Bank,21-05-2026
+U0800,Working Professional,22-24,Kolkata,Android,HDFC Bank,08-04-2025
+U0801,Working Professional,35-44,Delhi,Android,State Bank of India,11-11-2025
+U0802,Budget Conscious,45-54,Delhi,Android,HDFC Bank,31-03-2026
+U0803,Family User,50-59,Delhi,Android,HDFC Bank,29-06-2026
+U0804,Working Professional,25-34,Mumbai,Android,Axis Bank,12-07-2025
+U0805,Budget Conscious,25-34,Ahmedabad,Android,HDFC Bank,27-03-2025
+U0806,Working Professional,35-44,Mumbai,Android,State Bank of India,25-09-2023
+U0807,Family User,50-59,Bengaluru,Android,HDFC Bank,17-01-2024
+U0808,Family User,50-59,Mumbai,Android,HDFC Bank,23-09-2023
+U0809,Working Professional,35-44,Noida,Android,Kotak Mahindra Bank,06-02-2025
+U0810,High Spender,40-49,Ahmedabad,Android,ICICI Bank,12-01-2024
+U0811,Student,21-24,Noida,Android,Axis Bank,16-12-2023
+U0812,Working Professional,22-24,Delhi,Android,HDFC Bank,24-06-2024
+U0813,Frequent Traveler,45-54,Hyderabad,Android,HDFC Bank,02-01-2024
+U0814,Budget Conscious,25-34,Ahmedabad,Android,State Bank of India,27-12-2024
+U0815,Family User,40-49,Gurgaon,Android,HDFC Bank,19-06-2024
+U0816,Student,18-20,Delhi,iOS,State Bank of India,29-08-2023
+U0817,Frequent Traveler,35-44,Pune,Android,HDFC Bank,14-01-2026
+U0818,Frequent Traveler,25-34,Delhi,iOS,ICICI Bank,17-11-2023
+U0819,Working Professional,25-34,Kolkata,Android,HDFC Bank,22-01-2024
+U0820,Working Professional,25-34,Bengaluru,Android,Axis Bank,22-08-2024
+U0821,High Spender,40-49,Pune,Android,Axis Bank,14-06-2026
+U0822,Budget Conscious,45-54,Bengaluru,Android,HDFC Bank,15-09-2024
+U0823,High Spender,30-39,Mumbai,Android,Kotak Mahindra Bank,13-03-2026
+U0824,Working Professional,35-44,Jaipur,Android,Kotak Mahindra Bank,13-05-2025
+U0825,Working Professional,25-34,Kolkata,Android,ICICI Bank,09-04-2025
+U0826,Working Professional,25-34,Mumbai,iOS,Axis Bank,07-01-2026
+U0827,Student,21-24,Jaipur,Android,Kotak Mahindra Bank,05-05-2025
+U0828,Budget Conscious,45-54,Ahmedabad,Android,State Bank of India,14-11-2025
+U0829,Family User,50-59,Ahmedabad,Android,Axis Bank,22-02-2025
+U0830,Family User,30-39,Hyderabad,Android,Axis Bank,09-07-2026
+U0831,Student,18-20,Delhi,Android,ICICI Bank,05-05-2024
+U0832,Family User,40-49,Hyderabad,iOS,HDFC Bank,13-04-2026
+U0833,Budget Conscious,35-44,Noida,Android,State Bank of India,16-09-2023
+U0834,Student,18-20,Ludhiana,Android,Axis Bank,01-01-2026
+U0835,Frequent Traveler,25-34,Hyderabad,Android,Kotak Mahindra Bank,07-04-2024
+U0836,Working Professional,25-34,Hyderabad,Android,Axis Bank,03-11-2024
+U0837,Budget Conscious,25-34,Mumbai,Android,HDFC Bank,29-06-2026
+U0838,Family User,30-39,Mumbai,Android,Kotak Mahindra Bank,05-06-2024
+U0839,Family User,50-59,Ludhiana,Android,Axis Bank,10-03-2024
+U0840,High Spender,40-49,Delhi,Android,Axis Bank,17-01-2026
+U0841,Working Professional,35-44,Kolkata,Android,State Bank of India,31-10-2024
+U0842,Budget Conscious,25-34,Mumbai,Android,ICICI Bank,23-12-2025
+U0843,Student,21-24,Jaipur,iOS,State Bank of India,10-02-2026
+U0844,Family User,40-49,Ahmedabad,Android,ICICI Bank,21-01-2025
+U0845,Working Professional,35-44,Ahmedabad,Android,HDFC Bank,18-10-2023
+U0846,Working Professional,22-24,Noida,Android,Axis Bank,20-04-2024
+U0847,Working Professional,22-24,Ahmedabad,Android,Axis Bank,28-09-2025
+U0848,Student,18-20,Hyderabad,Android,Kotak Mahindra Bank,16-01-2025
+U0849,High Spender,30-39,Hyderabad,Android,HDFC Bank,28-02-2026
+U0850,Family User,40-49,Kolkata,Android,Kotak Mahindra Bank,19-10-2025
+U0851,Budget Conscious,25-34,Ahmedabad,Android,ICICI Bank,31-12-2024
+U0852,Student,21-24,Ludhiana,iOS,Axis Bank,09-05-2024
+U0853,High Spender,50-59,Noida,Android,State Bank of India,29-11-2024
+U0854,High Spender,40-49,Bengaluru,Android,Kotak Mahindra Bank,08-05-2026
+U0855,Budget Conscious,45-54,Ludhiana,Android,Kotak Mahindra Bank,14-04-2025
+U0856,Frequent Traveler,45-54,Ahmedabad,iOS,ICICI Bank,30-07-2025
+U0857,Working Professional,35-44,Ahmedabad,Android,State Bank of India,20-06-2024
+U0858,High Spender,30-39,Ahmedabad,Android,ICICI Bank,10-03-2025
+U0859,Family User,50-59,Jaipur,Android,HDFC Bank,22-11-2025
+U0860,Budget Conscious,45-54,Hyderabad,Android,Axis Bank,30-03-2024
+U0861,Family User,50-59,Gurgaon,iOS,Axis Bank,15-06-2026
+U0862,Frequent Traveler,45-54,Mumbai,Android,ICICI Bank,11-04-2024
+U0863,Student,18-20,Noida,Android,ICICI Bank,28-05-2025
+U0864,High Spender,50-59,Gurgaon,Android,HDFC Bank,24-06-2024
+U0865,Budget Conscious,35-44,Noida,Android,HDFC Bank,12-03-2024
+U0866,Working Professional,25-34,Mumbai,Android,Kotak Mahindra Bank,09-05-2026
+U0867,Frequent Traveler,45-54,Jaipur,Android,ICICI Bank,27-02-2024
+U0868,Family User,50-59,Gurgaon,Android,HDFC Bank,13-11-2023
+U0869,High Spender,40-49,Pune,iOS,State Bank of India,06-03-2026
+U0870,High Spender,30-39,Delhi,Android,ICICI Bank,01-04-2026
+U0871,Family User,40-49,Noida,iOS,State Bank of India,16-01-2025
+U0872,Budget Conscious,45-54,Ahmedabad,Android,ICICI Bank,18-05-2025
+U0873,Working Professional,22-24,Jaipur,Android,ICICI Bank,05-01-2026
+U0874,Budget Conscious,25-34,Pune,Android,State Bank of India,25-12-2025
+U0875,Family User,30-39,Bengaluru,Android,State Bank of India,13-03-2025
+U0876,Student,21-24,Ahmedabad,iOS,HDFC Bank,26-11-2024
+U0877,Student,21-24,Kolkata,Android,Kotak Mahindra Bank,08-10-2023
+U0878,Frequent Traveler,35-44,Hyderabad,Android,Kotak Mahindra Bank,03-07-2025
+U0879,Working Professional,35-44,Chandigarh,Android,ICICI Bank,19-03-2024
+U0880,Family User,50-59,Bengaluru,Android,Kotak Mahindra Bank,21-06-2024
+U0881,Working Professional,25-34,Noida,iOS,State Bank of India,28-05-2025
+U0882,Working Professional,25-34,Noida,iOS,Kotak Mahindra Bank,01-07-2025
+U0883,Family User,50-59,Jaipur,Android,State Bank of India,17-07-2025
+U0884,Working Professional,35-44,Kolkata,iOS,ICICI Bank,31-01-2026
+U0885,High Spender,50-59,Chandigarh,Android,HDFC Bank,25-04-2024
+U0886,Working Professional,35-44,Ahmedabad,Android,Kotak Mahindra Bank,27-01-2025
+U0887,Frequent Traveler,35-44,Ludhiana,Android,Axis Bank,14-04-2024
+U0888,Working Professional,25-34,Jaipur,Android,Kotak Mahindra Bank,25-04-2026
+U0889,Student,18-20,Bengaluru,iOS,Kotak Mahindra Bank,04-07-2024
+U0890,Family User,50-59,Mumbai,Android,ICICI Bank,19-06-2026
+U0891,Frequent Traveler,35-44,Mumbai,Android,Axis Bank,13-04-2025
+U0892,Family User,30-39,Ahmedabad,Android,HDFC Bank,06-06-2025
+U0893,Working Professional,25-34,Delhi,Android,HDFC Bank,06-12-2025
+U0894,Student,21-24,Ludhiana,Android,ICICI Bank,23-04-2025
+U0895,High Spender,40-49,Pune,Android,Axis Bank,03-03-2026
+U0896,Working Professional,22-24,Pune,Android,Kotak Mahindra Bank,13-04-2026
+U0897,Student,18-20,Ahmedabad,Android,HDFC Bank,17-04-2024
+U0898,Working Professional,35-44,Mumbai,Android,State Bank of India,03-12-2023
+U0899,Family User,40-49,Hyderabad,Android,HDFC Bank,24-06-2026
+U0900,Working Professional,35-44,Noida,Android,Axis Bank,16-07-2024
+U0901,Budget Conscious,45-54,Gurgaon,iOS,ICICI Bank,06-05-2024
+U0902,Working Professional,35-44,Jaipur,Android,HDFC Bank,11-01-2024
+U0903,Family User,50-59,Bengaluru,Android,HDFC Bank,08-08-2025
+U0904,Family User,40-49,Ludhiana,Android,HDFC Bank,21-02-2024
+U0905,Working Professional,35-44,Ahmedabad,iOS,State Bank of India,27-07-2025
+U0906,Working Professional,35-44,Ludhiana,Android,ICICI Bank,20-03-2025
+U0907,Working Professional,25-34,Noida,Android,Kotak Mahindra Bank,26-10-2024
+U0908,Frequent Traveler,45-54,Hyderabad,Android,HDFC Bank,22-11-2024
+U0909,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,24-11-2023
+U0910,Working Professional,25-34,Chandigarh,Android,ICICI Bank,26-12-2023
+U0911,Student,18-20,Noida,Android,Axis Bank,21-01-2026
+U0912,Working Professional,35-44,Gurgaon,Android,ICICI Bank,28-04-2024
+U0913,Family User,40-49,Chandigarh,iOS,ICICI Bank,09-07-2024
+U0914,Student,18-20,Noida,Android,Axis Bank,02-06-2025
+U0915,Working Professional,25-34,Bengaluru,Android,State Bank of India,25-04-2024
+U0916,Frequent Traveler,35-44,Hyderabad,Android,State Bank of India,30-11-2024
+U0917,Working Professional,22-24,Bengaluru,Android,HDFC Bank,09-02-2025
+U0918,Frequent Traveler,25-34,Ludhiana,Android,HDFC Bank,05-04-2025
+U0919,Budget Conscious,25-34,Ludhiana,Android,Kotak Mahindra Bank,23-01-2024
+U0920,Family User,50-59,Noida,iOS,Kotak Mahindra Bank,05-04-2026
+U0921,Working Professional,35-44,Hyderabad,Android,ICICI Bank,27-04-2024
+U0922,Working Professional,22-24,Kolkata,Android,State Bank of India,23-05-2026
+U0923,Student,18-20,Pune,Android,HDFC Bank,27-07-2025
+U0924,Family User,50-59,Jaipur,Android,Kotak Mahindra Bank,15-09-2025
+U0925,Student,18-20,Bengaluru,Android,Kotak Mahindra Bank,09-08-2025
+U0926,Family User,30-39,Ahmedabad,Android,State Bank of India,01-02-2024
+U0927,Student,21-24,Noida,Android,State Bank of India,31-08-2023
+U0928,Working Professional,35-44,Noida,Android,State Bank of India,26-05-2025
+U0929,Working Professional,25-34,Delhi,Android,State Bank of India,09-11-2024
+U0930,Student,21-24,Ahmedabad,Android,Kotak Mahindra Bank,08-03-2025
+U0931,Family User,40-49,Jaipur,Android,Kotak Mahindra Bank,24-11-2023
+U0932,Family User,30-39,Ludhiana,Android,ICICI Bank,20-07-2024
+U0933,Family User,40-49,Chandigarh,Android,Axis Bank,25-04-2025
+U0934,Frequent Traveler,25-34,Ludhiana,iOS,Axis Bank,06-05-2025
+U0935,Student,18-20,Ludhiana,Android,ICICI Bank,28-09-2025
+U0936,Student,18-20,Chandigarh,Android,HDFC Bank,15-12-2023
+U0937,Family User,40-49,Chandigarh,Android,Axis Bank,30-11-2023
+U0938,Family User,40-49,Noida,Android,Axis Bank,14-11-2024
+U0939,Student,18-20,Bengaluru,Android,ICICI Bank,24-12-2025
+U0940,Student,18-20,Kolkata,Android,ICICI Bank,25-06-2025
+U0941,Working Professional,22-24,Ludhiana,iOS,Kotak Mahindra Bank,23-04-2024
+U0942,High Spender,50-59,Delhi,iOS,State Bank of India,10-06-2026
+U0943,High Spender,30-39,Hyderabad,Android,Axis Bank,14-02-2024
+U0944,Frequent Traveler,25-34,Noida,iOS,Kotak Mahindra Bank,17-10-2025
+U0945,Student,18-20,Kolkata,Android,State Bank of India,04-01-2025
+U0946,Student,21-24,Hyderabad,Android,HDFC Bank,07-05-2024
+U0947,Working Professional,25-34,Bengaluru,Android,ICICI Bank,09-02-2024
+U0948,Family User,50-59,Jaipur,Android,ICICI Bank,27-09-2024
+U0949,Family User,30-39,Hyderabad,iOS,Kotak Mahindra Bank,22-01-2025
+U0950,Student,18-20,Mumbai,Android,ICICI Bank,27-10-2023
+U0951,High Spender,50-59,Delhi,iOS,Axis Bank,27-01-2025
+U0952,Family User,40-49,Delhi,Android,Axis Bank,11-04-2026
+U0953,Working Professional,25-34,Pune,Android,Kotak Mahindra Bank,31-12-2024
+U0954,Student,18-20,Gurgaon,Android,ICICI Bank,13-01-2026
+U0955,High Spender,30-39,Gurgaon,Android,Kotak Mahindra Bank,28-09-2024
+U0956,Working Professional,22-24,Delhi,Android,HDFC Bank,10-12-2023
+U0957,Family User,30-39,Ludhiana,Android,ICICI Bank,07-10-2023
+U0958,Budget Conscious,35-44,Pune,Android,ICICI Bank,08-01-2025
+U0959,Working Professional,35-44,Gurgaon,Android,Kotak Mahindra Bank,01-05-2025
+U0960,Working Professional,25-34,Kolkata,Android,Axis Bank,25-06-2026
+U0961,Budget Conscious,35-44,Ludhiana,Android,Axis Bank,05-11-2023
+U0962,Student,21-24,Gurgaon,iOS,Kotak Mahindra Bank,16-02-2024
+U0963,Working Professional,35-44,Pune,Android,HDFC Bank,09-06-2026
+U0964,Budget Conscious,35-44,Ahmedabad,iOS,HDFC Bank,20-11-2025
+U0965,Working Professional,25-34,Chandigarh,Android,Kotak Mahindra Bank,18-10-2024
+U0966,Budget Conscious,45-54,Delhi,Android,HDFC Bank,10-12-2023
+U0967,Frequent Traveler,25-34,Hyderabad,iOS,Axis Bank,13-11-2023
+U0968,Student,21-24,Noida,Android,Kotak Mahindra Bank,01-07-2026
+U0969,Student,21-24,Pune,Android,Kotak Mahindra Bank,08-04-2026
+U0970,Working Professional,35-44,Delhi,iOS,ICICI Bank,28-03-2026
+U0971,Family User,40-49,Delhi,Android,Kotak Mahindra Bank,03-07-2025
+U0972,Working Professional,22-24,Kolkata,Android,ICICI Bank,04-09-2024
+U0973,Family User,50-59,Delhi,Android,HDFC Bank,17-11-2025
+U0974,High Spender,30-39,Gurgaon,Android,State Bank of India,04-05-2025
+U0975,Family User,40-49,Kolkata,Android,HDFC Bank,07-04-2026
+U0976,Budget Conscious,25-34,Mumbai,Android,Kotak Mahindra Bank,08-12-2025
+U0977,High Spender,40-49,Chandigarh,iOS,State Bank of India,15-02-2026
+U0978,Working Professional,22-24,Hyderabad,iOS,Kotak Mahindra Bank,18-06-2025
+U0979,Student,18-20,Pune,Android,Kotak Mahindra Bank,09-06-2026
+U0980,Student,21-24,Chandigarh,iOS,Kotak Mahindra Bank,06-01-2025
+U0981,High Spender,50-59,Kolkata,Android,Axis Bank,23-10-2023
+U0982,High Spender,50-59,Hyderabad,Android,State Bank of India,18-10-2025
+U0983,High Spender,40-49,Jaipur,Android,Kotak Mahindra Bank,06-07-2025
+U0984,Frequent Traveler,35-44,Mumbai,Android,Axis Bank,09-04-2025
+U0985,Family User,30-39,Jaipur,Android,State Bank of India,03-06-2025
+U0986,Working Professional,25-34,Ludhiana,Android,State Bank of India,11-11-2023
+U0987,Working Professional,22-24,Pune,Android,State Bank of India,01-06-2024
+U0988,Student,18-20,Hyderabad,Android,ICICI Bank,02-03-2025
+U0989,Frequent Traveler,35-44,Bengaluru,iOS,ICICI Bank,27-01-2025
+U0990,Working Professional,22-24,Noida,Android,State Bank of India,20-10-2024
+U0991,Working Professional,22-24,Noida,iOS,State Bank of India,01-08-2025
+U0992,Student,18-20,Mumbai,iOS,Axis Bank,01-07-2024
+U0993,Family User,50-59,Delhi,iOS,State Bank of India,28-01-2026
+U0994,Family User,40-49,Kolkata,iOS,Axis Bank,09-03-2026
+U0995,Student,21-24,Pune,Android,Kotak Mahindra Bank,19-09-2024
+U0996,Student,21-24,Hyderabad,iOS,HDFC Bank,27-05-2025
+U0997,Family User,40-49,Jaipur,Android,Axis Bank,16-02-2026
+U0998,High Spender,50-59,Ludhiana,Android,HDFC Bank,22-08-2025
+U0999,Student,18-20,Pune,Android,State Bank of India,25-03-2024
+U1000,Working Professional,25-34,Bengaluru,Android,ICICI Bank,15-06-2025
+U1001,Working Professional,35-44,Chandigarh,Android,Axis Bank,02-03-2024
+U1002,Working Professional,25-34,Ahmedabad,Android,State Bank of India,24-12-2023
+U1003,Frequent Traveler,35-44,Hyderabad,Android,ICICI Bank,11-07-2025
+U1004,High Spender,50-59,Noida,Android,State Bank of India,13-10-2024
+U1005,Frequent Traveler,45-54,Pune,iOS,ICICI Bank,22-05-2024
+U1006,Student,18-20,Hyderabad,Android,ICICI Bank,08-09-2023
+U1007,Working Professional,22-24,Jaipur,Android,State Bank of India,29-07-2024
+U1008,Budget Conscious,35-44,Gurgaon,Android,Kotak Mahindra Bank,15-10-2024
+U1009,Student,18-20,Ahmedabad,Android,ICICI Bank,22-12-2024
+U1010,Frequent Traveler,35-44,Jaipur,Android,State Bank of India,24-06-2026
+U1011,Working Professional,25-34,Ludhiana,Android,State Bank of India,19-05-2024
+U1012,Working Professional,25-34,Mumbai,Android,Kotak Mahindra Bank,18-05-2024
+U1013,Student,18-20,Gurgaon,Android,Kotak Mahindra Bank,08-06-2026
+U1014,Working Professional,35-44,Hyderabad,iOS,Axis Bank,04-07-2025
+U1015,Family User,40-49,Jaipur,iOS,ICICI Bank,02-03-2024
+U1016,Family User,40-49,Pune,Android,Kotak Mahindra Bank,29-11-2024
+U1017,Working Professional,22-24,Mumbai,Android,ICICI Bank,12-08-2023
+U1018,Working Professional,35-44,Gurgaon,Android,Kotak Mahindra Bank,24-11-2024
+U1019,Family User,40-49,Hyderabad,Android,State Bank of India,26-05-2026
+U1020,Budget Conscious,45-54,Hyderabad,Android,ICICI Bank,11-03-2026
+U1021,Frequent Traveler,25-34,Ahmedabad,Android,State Bank of India,21-04-2024
+U1022,High Spender,50-59,Ahmedabad,Android,ICICI Bank,09-04-2026
+U1023,Working Professional,22-24,Mumbai,iOS,Axis Bank,14-07-2024
+U1024,Family User,30-39,Pune,Android,HDFC Bank,03-11-2023
+U1025,Student,18-20,Mumbai,Android,Axis Bank,11-01-2026
+U1026,Working Professional,22-24,Ahmedabad,Android,ICICI Bank,12-07-2025
+U1027,Student,18-20,Delhi,Android,State Bank of India,14-05-2025
+U1028,Frequent Traveler,35-44,Hyderabad,Android,Kotak Mahindra Bank,07-03-2025
+U1029,High Spender,50-59,Hyderabad,Android,Kotak Mahindra Bank,27-09-2025
+U1030,Student,21-24,Jaipur,Android,Kotak Mahindra Bank,14-07-2024
+U1031,Working Professional,35-44,Jaipur,Android,State Bank of India,05-04-2026
+U1032,Working Professional,22-24,Mumbai,Android,State Bank of India,07-04-2024
+U1033,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,06-01-2025
+U1034,Frequent Traveler,25-34,Chandigarh,Android,Kotak Mahindra Bank,23-01-2026
+U1035,Student,21-24,Hyderabad,Android,Axis Bank,13-11-2023
+U1036,Budget Conscious,45-54,Noida,Android,Kotak Mahindra Bank,09-04-2026
+U1037,Working Professional,25-34,Ludhiana,Android,ICICI Bank,24-01-2025
+U1038,Student,21-24,Pune,Android,HDFC Bank,22-08-2025
+U1039,Working Professional,22-24,Ludhiana,Android,Kotak Mahindra Bank,14-12-2025
+U1040,Frequent Traveler,45-54,Gurgaon,Android,Kotak Mahindra Bank,18-04-2026
+U1041,Frequent Traveler,35-44,Noida,iOS,ICICI Bank,22-11-2024
+U1042,Student,18-20,Jaipur,Android,Axis Bank,30-08-2025
+U1043,Working Professional,35-44,Hyderabad,Android,HDFC Bank,02-11-2023
+U1044,Student,18-20,Bengaluru,iOS,State Bank of India,04-08-2024
+U1045,Working Professional,35-44,Hyderabad,Android,ICICI Bank,30-08-2023
+U1046,Student,18-20,Hyderabad,Android,Axis Bank,25-11-2025
+U1047,Working Professional,25-34,Chandigarh,Android,HDFC Bank,09-04-2024
+U1048,Working Professional,22-24,Delhi,Android,Axis Bank,22-10-2024
+U1049,Student,21-24,Bengaluru,Android,State Bank of India,09-04-2025
+U1050,Frequent Traveler,25-34,Mumbai,iOS,ICICI Bank,23-12-2023
+U1051,Working Professional,25-34,Noida,Android,HDFC Bank,21-04-2024
+U1052,Student,18-20,Ludhiana,Android,ICICI Bank,22-09-2025
+U1053,Working Professional,35-44,Gurgaon,iOS,ICICI Bank,07-10-2025
+U1054,Family User,30-39,Ahmedabad,iOS,Kotak Mahindra Bank,16-12-2023
+U1055,Student,21-24,Jaipur,Android,State Bank of India,30-06-2024
+U1056,Frequent Traveler,45-54,Noida,iOS,ICICI Bank,13-02-2025
+U1057,Family User,40-49,Delhi,Android,State Bank of India,29-05-2026
+U1058,Family User,40-49,Noida,Android,HDFC Bank,18-07-2025
+U1059,Family User,50-59,Hyderabad,Android,ICICI Bank,15-10-2025
+U1060,Working Professional,22-24,Noida,Android,HDFC Bank,10-06-2026
+U1061,Budget Conscious,35-44,Jaipur,Android,State Bank of India,11-02-2025
+U1062,Family User,50-59,Ludhiana,Android,ICICI Bank,11-01-2024
+U1063,Working Professional,25-34,Ludhiana,Android,State Bank of India,29-12-2023
+U1064,Frequent Traveler,35-44,Ahmedabad,Android,Axis Bank,23-10-2025
+U1065,Working Professional,22-24,Gurgaon,iOS,Axis Bank,22-10-2024
+U1066,Budget Conscious,45-54,Gurgaon,Android,Axis Bank,17-05-2025
+U1067,Student,18-20,Ludhiana,Android,Axis Bank,23-06-2025
+U1068,Working Professional,35-44,Ludhiana,Android,Kotak Mahindra Bank,10-01-2025
+U1069,Student,21-24,Gurgaon,Android,Axis Bank,28-07-2024
+U1070,Student,21-24,Ahmedabad,Android,HDFC Bank,24-09-2023
+U1071,Family User,40-49,Kolkata,Android,HDFC Bank,09-08-2025
+U1072,Family User,50-59,Pune,Android,Axis Bank,24-09-2024
+U1073,Budget Conscious,25-34,Kolkata,Android,Axis Bank,05-01-2024
+U1074,Family User,30-39,Mumbai,Android,HDFC Bank,30-06-2025
+U1075,Student,18-20,Bengaluru,iOS,ICICI Bank,14-11-2024
+U1076,Student,18-20,Mumbai,Android,Axis Bank,09-05-2025
+U1077,Family User,50-59,Kolkata,Android,State Bank of India,20-11-2025
+U1078,Student,18-20,Kolkata,Android,HDFC Bank,10-12-2024
+U1079,High Spender,30-39,Jaipur,Android,HDFC Bank,17-05-2025
+U1080,Working Professional,35-44,Delhi,Android,Axis Bank,15-02-2024
+U1081,Frequent Traveler,45-54,Delhi,iOS,State Bank of India,15-01-2026
+U1082,Family User,50-59,Mumbai,iOS,HDFC Bank,20-05-2026
+U1083,High Spender,50-59,Mumbai,Android,ICICI Bank,27-12-2025
+U1084,Family User,30-39,Noida,Android,ICICI Bank,15-08-2024
+U1085,Family User,30-39,Ludhiana,Android,Axis Bank,23-09-2024
+U1086,Budget Conscious,45-54,Kolkata,Android,Axis Bank,23-05-2026
+U1087,Budget Conscious,35-44,Mumbai,Android,ICICI Bank,29-02-2024
+U1088,Family User,50-59,Chandigarh,Android,Kotak Mahindra Bank,30-06-2026
+U1089,High Spender,40-49,Chandigarh,iOS,Kotak Mahindra Bank,12-04-2025
+U1090,High Spender,40-49,Chandigarh,Android,Axis Bank,15-06-2026
+U1091,Frequent Traveler,35-44,Kolkata,Android,Kotak Mahindra Bank,01-04-2026
+U1092,Working Professional,35-44,Ahmedabad,Android,Axis Bank,15-12-2025
+U1093,Working Professional,25-34,Delhi,Android,State Bank of India,02-11-2025
+U1094,Family User,50-59,Bengaluru,iOS,State Bank of India,20-11-2025
+U1095,Student,18-20,Noida,iOS,HDFC Bank,20-02-2025
+U1096,Budget Conscious,45-54,Gurgaon,iOS,Kotak Mahindra Bank,03-02-2026
+U1097,Family User,50-59,Bengaluru,Android,Axis Bank,22-07-2024
+U1098,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,25-11-2023
+U1099,Working Professional,25-34,Gurgaon,Android,Axis Bank,03-09-2023
+U1100,Family User,30-39,Ahmedabad,Android,State Bank of India,08-02-2026
+U1101,Budget Conscious,25-34,Hyderabad,iOS,Kotak Mahindra Bank,10-08-2024
+U1102,Frequent Traveler,25-34,Kolkata,Android,HDFC Bank,18-11-2024
+U1103,Budget Conscious,45-54,Pune,Android,HDFC Bank,13-11-2025
+U1104,High Spender,40-49,Chandigarh,iOS,Axis Bank,17-08-2025
+U1105,Working Professional,22-24,Noida,Android,Kotak Mahindra Bank,18-03-2025
+U1106,High Spender,50-59,Jaipur,Android,State Bank of India,10-06-2026
+U1107,Family User,40-49,Ludhiana,Android,State Bank of India,01-09-2023
+U1108,Family User,30-39,Bengaluru,Android,Axis Bank,19-07-2024
+U1109,High Spender,50-59,Kolkata,Android,ICICI Bank,02-10-2024
+U1110,Working Professional,25-34,Bengaluru,Android,HDFC Bank,08-04-2025
+U1111,Working Professional,35-44,Delhi,Android,State Bank of India,27-09-2023
+U1112,Student,21-24,Ahmedabad,Android,ICICI Bank,30-12-2024
+U1113,Working Professional,22-24,Hyderabad,Android,Kotak Mahindra Bank,22-03-2025
+U1114,Student,18-20,Noida,Android,Axis Bank,08-12-2025
+U1115,Working Professional,35-44,Mumbai,Android,Axis Bank,10-01-2025
+U1116,Working Professional,25-34,Noida,Android,Kotak Mahindra Bank,29-12-2024
+U1117,Family User,40-49,Bengaluru,iOS,Kotak Mahindra Bank,06-06-2024
+U1118,Frequent Traveler,35-44,Kolkata,Android,HDFC Bank,28-12-2023
+U1119,High Spender,30-39,Noida,Android,ICICI Bank,17-10-2025
+U1120,Budget Conscious,25-34,Mumbai,Android,ICICI Bank,10-10-2023
+U1121,High Spender,30-39,Gurgaon,Android,HDFC Bank,07-12-2023
+U1122,Working Professional,25-34,Delhi,Android,Kotak Mahindra Bank,14-11-2024
+U1123,Working Professional,35-44,Ludhiana,Android,Kotak Mahindra Bank,26-01-2026
+U1124,Working Professional,35-44,Bengaluru,Android,HDFC Bank,28-06-2026
+U1125,Working Professional,35-44,Ludhiana,Android,ICICI Bank,29-11-2025
+U1126,Student,18-20,Ahmedabad,Android,HDFC Bank,29-12-2025
+U1127,Working Professional,22-24,Mumbai,Android,State Bank of India,14-10-2024
+U1128,Family User,50-59,Chandigarh,iOS,HDFC Bank,29-06-2025
+U1129,Working Professional,35-44,Pune,Android,Axis Bank,20-12-2025
+U1130,Family User,50-59,Mumbai,iOS,Axis Bank,25-06-2026
+U1131,Frequent Traveler,45-54,Mumbai,Android,Kotak Mahindra Bank,19-04-2024
+U1132,High Spender,50-59,Ahmedabad,Android,ICICI Bank,12-02-2025
+U1133,High Spender,40-49,Chandigarh,Android,ICICI Bank,09-12-2025
+U1134,Student,21-24,Chandigarh,Android,ICICI Bank,24-04-2026
+U1135,High Spender,50-59,Gurgaon,Android,State Bank of India,06-03-2026
+U1136,Frequent Traveler,25-34,Ludhiana,iOS,ICICI Bank,01-03-2026
+U1137,Student,21-24,Jaipur,Android,Axis Bank,07-11-2023
+U1138,Family User,50-59,Kolkata,iOS,ICICI Bank,06-10-2025
+U1139,Working Professional,35-44,Bengaluru,Android,State Bank of India,26-02-2025
+U1140,High Spender,40-49,Hyderabad,Android,ICICI Bank,12-10-2023
+U1141,Family User,50-59,Ludhiana,Android,ICICI Bank,06-09-2024
+U1142,Frequent Traveler,35-44,Ahmedabad,Android,Kotak Mahindra Bank,23-10-2023
+U1143,High Spender,40-49,Bengaluru,Android,Kotak Mahindra Bank,09-02-2024
+U1144,High Spender,40-49,Mumbai,Android,HDFC Bank,02-04-2025
+U1145,Student,18-20,Ahmedabad,Android,State Bank of India,11-09-2024
+U1146,Frequent Traveler,35-44,Pune,Android,State Bank of India,29-03-2024
+U1147,Student,18-20,Mumbai,Android,HDFC Bank,27-02-2026
+U1148,Budget Conscious,45-54,Kolkata,Android,Kotak Mahindra Bank,19-12-2025
+U1149,Family User,50-59,Noida,Android,HDFC Bank,28-11-2025
+U1150,Working Professional,35-44,Hyderabad,Android,Kotak Mahindra Bank,30-01-2024
+U1151,Working Professional,35-44,Chandigarh,Android,Axis Bank,19-07-2025
+U1152,Working Professional,22-24,Bengaluru,Android,HDFC Bank,02-06-2025
+U1153,Working Professional,22-24,Gurgaon,iOS,ICICI Bank,30-06-2025
+U1154,Budget Conscious,25-34,Noida,Android,Axis Bank,18-11-2024
+U1155,Frequent Traveler,35-44,Ahmedabad,Android,Axis Bank,03-04-2024
+U1156,Frequent Traveler,35-44,Pune,Android,Kotak Mahindra Bank,09-11-2024
+U1157,Budget Conscious,35-44,Ahmedabad,Android,Kotak Mahindra Bank,15-06-2024
+U1158,High Spender,50-59,Kolkata,Android,HDFC Bank,30-05-2024
+U1159,Family User,40-49,Hyderabad,iOS,HDFC Bank,08-09-2024
+U1160,Frequent Traveler,25-34,Ludhiana,Android,HDFC Bank,20-09-2023
+U1161,Family User,50-59,Jaipur,iOS,ICICI Bank,04-04-2026
+U1162,Working Professional,25-34,Gurgaon,Android,State Bank of India,15-07-2024
+U1163,Working Professional,25-34,Gurgaon,Android,HDFC Bank,01-10-2025
+U1164,Budget Conscious,25-34,Hyderabad,iOS,Axis Bank,04-11-2023
+U1165,Student,18-20,Bengaluru,Android,Kotak Mahindra Bank,04-09-2024
+U1166,Student,21-24,Chandigarh,Android,ICICI Bank,21-03-2026
+U1167,Working Professional,35-44,Noida,iOS,HDFC Bank,04-10-2025
+U1168,Working Professional,35-44,Jaipur,iOS,ICICI Bank,23-05-2024
+U1169,Budget Conscious,25-34,Mumbai,Android,Axis Bank,19-04-2024
+U1170,Family User,30-39,Ludhiana,Android,Kotak Mahindra Bank,28-02-2025
+U1171,Family User,30-39,Pune,Android,HDFC Bank,12-09-2025
+U1172,Budget Conscious,35-44,Kolkata,iOS,ICICI Bank,11-02-2026
+U1173,Student,18-20,Bengaluru,Android,HDFC Bank,14-11-2025
+U1174,Working Professional,25-34,Ahmedabad,Android,Axis Bank,25-10-2024
+U1175,Working Professional,22-24,Mumbai,iOS,ICICI Bank,27-02-2024
+U1176,Student,21-24,Delhi,Android,Axis Bank,29-12-2024
+U1177,Family User,30-39,Kolkata,iOS,ICICI Bank,18-08-2025
+U1178,Working Professional,35-44,Hyderabad,Android,Axis Bank,21-03-2024
+U1179,Student,18-20,Noida,iOS,State Bank of India,07-01-2026
+U1180,Family User,50-59,Noida,Android,ICICI Bank,07-06-2025
+U1181,Student,21-24,Delhi,Android,HDFC Bank,12-08-2025
+U1182,Family User,50-59,Gurgaon,Android,HDFC Bank,04-05-2024
+U1183,Student,21-24,Bengaluru,Android,State Bank of India,10-10-2023
+U1184,Family User,50-59,Ahmedabad,Android,Kotak Mahindra Bank,11-01-2026
+U1185,Student,21-24,Ahmedabad,Android,HDFC Bank,09-08-2025
+U1186,Student,21-24,Chandigarh,Android,Axis Bank,29-05-2024
+U1187,Frequent Traveler,35-44,Ludhiana,Android,Axis Bank,31-12-2024
+U1188,Student,21-24,Chandigarh,Android,Kotak Mahindra Bank,20-01-2025
+U1189,Working Professional,22-24,Kolkata,Android,Kotak Mahindra Bank,08-02-2025
+U1190,Budget Conscious,45-54,Ludhiana,iOS,Axis Bank,09-12-2023
+U1191,Budget Conscious,45-54,Ahmedabad,Android,Kotak Mahindra Bank,13-06-2024
+U1192,Frequent Traveler,35-44,Ludhiana,Android,Kotak Mahindra Bank,11-02-2024
+U1193,Working Professional,22-24,Kolkata,Android,Kotak Mahindra Bank,28-05-2025
+U1194,Budget Conscious,35-44,Hyderabad,Android,Kotak Mahindra Bank,22-10-2025
+U1195,Working Professional,25-34,Noida,Android,HDFC Bank,09-08-2023
+U1196,Working Professional,22-24,Ahmedabad,iOS,Kotak Mahindra Bank,29-12-2025
+U1197,High Spender,40-49,Delhi,Android,Kotak Mahindra Bank,03-05-2024
+U1198,Frequent Traveler,25-34,Delhi,Android,State Bank of India,11-04-2026
+U1199,Working Professional,22-24,Gurgaon,Android,Kotak Mahindra Bank,16-03-2026
+U1200,Working Professional,22-24,Mumbai,Android,State Bank of India,13-03-2024
